@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="3840,2160" opaque="false">
   <displayList>
+    <component id="n8_v31c" name="BloodBarParent" src="zhyrl" fileName="UIBattle/ArmyInfoMinParent.xml" xy="0,0" pivot="0.5,0.5"/>
     <component id="n5_zhyr" name="ArmyInfoMinParent" src="zhyrl" fileName="UIBattle/ArmyInfoMinParent.xml" xy="0,0" pivot="0.5,0.5"/>
     <component id="n6_zhyr" name="GameStartButton" src="zhyrp" fileName="UIBattle/GameStartButton.xml" xy="3540,0" pivot="0.5,0.5" size="300,100"/>
-    <text id="n2_lv2e" name="GameStartText" xy="3541,0" pivot="0.5,0.5" size="300,100" fontSize="50" color="#00ff00" align="center" vAlign="middle" autoSize="none" text="开始游戏"/>
-    <text id="n3_vm6r" name="Time" xy="1740,0" pivot="0.5,0.5" size="400,54" fontSize="40" color="#00ff00" align="center" vAlign="middle" autoSize="none" text="15:00"/>
+    <text id="n2_lv2e" name="GameStartText" xy="3541,0" pivot="0.5,0.5" size="300,100" font="ui://7h088bzbergj2" fontSize="50" color="#00ff00" align="center" vAlign="middle" autoSize="none" text="开始游戏"/>
+    <component id="n9_qgy6" name="GamePlayMultipleButton" src="zhyrp" fileName="UIBattle/GameStartButton.xml" xy="3540,100" pivot="0.5,0.5" size="300,100"/>
+    <text id="n10_qgy6" name="GamePlayMultipleText" xy="3540,100" pivot="0.5,0.5" size="300,100" font="ui://7h088bzbergj2" fontSize="50" color="#00ff00" align="center" vAlign="middle" autoSize="none" text="开始游戏"/>
+    <text id="n3_vm6r" name="Time" xy="1740,0" pivot="0.5,0.5" size="400,54" font="ui://7h088bzbergj2" fontSize="40" color="#00ff00" align="center" vAlign="middle" autoSize="none" text="15:00"/>
     <component id="n4_dxag" name="ArmyInfo" src="vm6rf" fileName="UIBattle/ArmyInfo.xml" xy="0,250" pivot="0.5,0.5"/>
+    <component id="n7_azil" name="LoseWinInterface" src="azils" fileName="UIBattle/LoseWinInterface.xml" xy="0,0" pivot="0.5,0.5"/>
   </displayList>
 </component>

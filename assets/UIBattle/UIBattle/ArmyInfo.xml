@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="800,1600">
   <displayList>
-    <component id="n22_qq3e" name="bgM" src="qq3ei" fileName="UIBattle/bg.xml" xy="0,-250" pivot="0.5,0.5"/>
+    <component id="n22_qq3e" name="bgM" src="qq3ei" fileName="UIBattle/bg.xml" xy="0,-249" pivot="0.5,0.5"/>
     <graph id="n0_vm6r" name="bg" xy="-1,1" pivot="0.5,0.5" size="800,1600" type="rect" fillColor="#1a000000"/>
     <text id="n2_vm6r" name="name" xy="0,0" pivot="0.5,0.5" size="800,100" fontSize="60" align="center" vAlign="middle" autoSize="none" text="民初"/>
     <graph id="n1_vm6r" name="icon" xy="250,100" pivot="0.5,0.5" size="300,300" type="rect"/>
@@ -15,16 +15,17 @@
       <ProgressBar value="100" max="100"/>
     </component>
     <text id="n10_dxag" name="moraleNumber" xy="200,530" pivot="0.5,0.5" size="500,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.01" text="4000/5000"/>
-    <text id="n11_dxag" name="attribute" xy="10,600" pivot="0.5,0.5" size="300,100" fontSize="50" vAlign="middle" autoSize="none" text="单兵属性："/>
-    <text id="n12_dxag" name="hpNumber" xy="100,700" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="生命："/>
-    <text id="n13_dxag" name="attackNumber" xy="400,700" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="攻击："/>
-    <text id="n14_dxag" name="defenseNumber" xy="100,750" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="防御："/>
-    <text id="n15_dxag" name="attackSpeedNumber" xy="400,750" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="攻速："/>
-    <text id="n16_dxag" name="speedNumber" xy="100,800" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="移速："/>
-    <text id="n17_dxag" name="attackRangeNumber" xy="400,800" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="攻击范围："/>
-    <text id="n18_dxag" name="specialAbility" xy="10,900" pivot="0.5,0.5" size="300,100" fontSize="50" vAlign="middle" autoSize="none" text="特殊能力："/>
-    <list id="n19_dxag" name="specialAbilityList" xy="10,1000" pivot="0.5,0.5" size="780,100" layout="row" colGap="10" defaultItem="ui://uimp3h6edxagh"/>
-    <text id="n20_dxag" name="buff" xy="10,1117" pivot="0.5,0.5" size="300,100" fontSize="50" vAlign="middle" autoSize="none" text="当前状态："/>
-    <list id="n21_dxag" name="buffList" xy="10,1217" pivot="0.5,0.5" size="780,100" layout="row" colGap="10" defaultItem="ui://uimp3h6edxagh"/>
+    <text id="n23_h62j" name="type" xy="10,599" pivot="0.5,0.5" size="600,100" fontSize="50" vAlign="middle" autoSize="none" text="军队类型："/>
+    <text id="n11_dxag" name="attribute" xy="10,700" pivot="0.5,0.5" size="300,100" fontSize="50" vAlign="middle" autoSize="none" text="单兵属性："/>
+    <text id="n12_dxag" name="hpNumber" xy="100,800" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="生命："/>
+    <text id="n13_dxag" name="attackNumber" xy="400,800" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="攻击："/>
+    <text id="n14_dxag" name="defenseNumber" xy="100,850" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="防御："/>
+    <text id="n15_dxag" name="attackSpeedNumber" xy="400,850" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="攻速："/>
+    <text id="n16_dxag" name="speedNumber" xy="100,900" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="移速："/>
+    <text id="n17_dxag" name="attackRangeNumber" xy="400,900" pivot="0.5,0.5" size="300,50" fontSize="35" vAlign="middle" autoSize="none" text="攻击范围："/>
+    <text id="n18_dxag" name="specialAbility" xy="10,1000" pivot="0.5,0.5" size="300,100" fontSize="50" vAlign="middle" autoSize="none" text="特殊能力："/>
+    <list id="n19_dxag" name="specialAbilityList" xy="10,1100" pivot="0.5,0.5" size="780,100" layout="row" colGap="10" defaultItem="ui://uimp3h6edxagh"/>
+    <text id="n20_dxag" name="buff" xy="10,1200" pivot="0.5,0.5" size="300,100" fontSize="50" vAlign="middle" autoSize="none" text="当前状态："/>
+    <list id="n21_dxag" name="buffList" xy="10,1300" pivot="0.5,0.5" size="780,100" layout="row" colGap="10" defaultItem="ui://uimp3h6edxagh"/>
   </displayList>
 </component>

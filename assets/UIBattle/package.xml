@@ -13,6 +13,7 @@
     <component id="zhyrp" name="GameStartButton.xml" path="/UIBattle/"/>
     <component id="zjyzq" name="BloodBar.xml" path="/UIBattle/" exported="true"/>
     <component id="zjyzr" name="AttributeChange.xml" path="/UIBattle/" exported="true"/>
+    <component id="azils" name="LoseWinInterface.xml" path="/UIBattle/"/>
   </resources>
   <publish name="UIBattle"/>
 </packageDescription>

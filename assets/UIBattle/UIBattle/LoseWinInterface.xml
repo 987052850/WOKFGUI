@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <displayList>
+    <graph id="n0_azil" name="bg" xy="0,0" pivot="0.5,0.5" size="3840,2160" type="rect"/>
+    <text id="n1_azil" name="text" xy="0,0" pivot="0.5,0.5" size="3840,2160" fontSize="200" color="#ff0000" align="center" vAlign="middle" autoSize="none" shadowColor="#000000" shadowOffset="0,0.1" faceDilate="0.01" text="失败！"/>
+  </displayList>
+</component>
