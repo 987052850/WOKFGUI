@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="847,1222">
+  <displayList>
+    <text id="n0_oc5d" name="n0" xy="301,0" pivot="0.5,0.5" size="244,79" font="ui://7h088bzbrii9q" fontSize="60" text="宝物仓库"/>
+    <text id="n1_oc5d" name="n1" xy="0,119" pivot="0,0.5" size="204,54" fontSize="40" text="显示已装备"/>
+    <list id="n2_oc5d" name="n2" xy="423,1222" pivot="0.5,1" anchor="true" size="847,1034" layout="flow_hz" overflow="scroll" lineGap="124" colGap="122" defaultItem="ui://clm51bb7oc5d1m">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n3_oc5d" name="n3" src="oc5d1j" fileName="GComponent/Default/TreasuresShowCur.xml" xy="226,119" pivot="0.5,0.5"/>
+    <component id="n4_oc5d" name="n4" src="oc5d1k" fileName="GComponent/Default/TreasuresSortMethod.xml" xy="368,123" pivot="0.5,0.5"/>
+  </displayList>
+</component>

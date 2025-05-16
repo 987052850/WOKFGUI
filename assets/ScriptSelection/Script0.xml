@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160" pivot="0.5,0.5" anchor="true" opaque="false">
+  <displayList>
+    <component id="n0_s7d4" name="n0" src="s7d48" fileName="NationalScript.xml" xy="1214,1083" pivot="0.5,0.5"/>
+    <component id="n1_s7d4" name="n1" src="s7d48" fileName="NationalScript.xml" xy="1204,320" pivot="0.5,0.5"/>
+    <image id="n6_s7d4" name="n0_power" src="s7d43" fileName="Folder/item.png" xy="2344,718" pivot="0.5,0.5"/>
+    <image id="n7_s7d4" name="n1_power" src="s7d43" fileName="Folder/item.png" xy="2306,818" pivot="0.5,0.5"/>
+  </displayList>
+</component>

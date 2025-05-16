@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7h088bzb">
+  <resources>
+    <font id="ergj1" name="msyh.ttc" path="/font/" renderMode="sdfaa" samplePointSize="37" atlasPadding="5"/>
+    <font id="ergj2" name="mianfeiziti.ttf" path="/font/" renderMode="sdfaa" samplePointSize="35"/>
+  </resources>
+  <publish name="Basic"/>
+</packageDescription>

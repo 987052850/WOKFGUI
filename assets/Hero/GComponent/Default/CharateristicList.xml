@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="396,396">
+  <controller name="c1" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <text id="n0_oc5d" name="title" xy="190,0" size="206,54" fontSize="36" color="#969287" vAlign="middle" autoSize="none" text="战法"/>
+    <image id="n1_oc5d" name="icon" src="oc5d10" fileName="UIAssets/icon_hero/icon_heropolicy.png" xy="134,6" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n2_oc5d" name="n2" src="oc5d11" fileName="UIAssets/icon_hero/icon_heroskill.png" xy="112,6" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n3_oc5d" name="n3" src="oc5d12" fileName="UIAssets/icon_hero/icon_herotrait.png" xy="115,6" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <list id="n4_oc5d" name="n4" xy="198,92" pivot="0.5,0" anchor="true" size="380,304" selectionMode="none" overflow="hidden" lineGap="8" defaultItem="ui://clm51bb7oc5d13" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

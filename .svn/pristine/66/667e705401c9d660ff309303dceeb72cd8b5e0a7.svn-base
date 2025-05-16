@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1261,500" pivot="0.5,0.5">
+  <displayList>
+    <image id="n13_lp9y" name="n13" src="lp9y4" fileName="ui_assets/ui/common/ui_common_buttonlong01.png" xy="0,168" alpha="0.4"/>
+    <image id="n11_lp9y" name="n11" src="lp9y2" fileName="ui_assets/icon/head_small/icon_head_smalltest.png" xy="73,0" color="#787878"/>
+    <text id="n20_lp9y" name="n20" xy="351,189" size="635,64" alpha="0.4" font="ui://hclr9l1rlp9y1" fontSize="48" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" text="事件内容选中状态"/>
+    <text id="n21_lp9y" name="condition" xy="73,299" size="152,64" alpha="0.4" font="ui://hclr9l1rlp9y1" fontSize="48" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" text="条件："/>
+    <text id="n22_lp9y" name="conditionContext" xy="227,299" size="932,188" alpha="0.4" font="ui://hclr9l1rlp9y1" fontSize="48" color="#ffffff" ubb="true" autoSize="shrink" text="[color=#FF0000]这段文字是红色的[/color] 这段是默认颜色&#xD;&#xA;"/>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,300">
+  <displayList>
+    <graph id="n0_edzm" name="n0" xy="0,0" pivot="0.5,0.5" size="1000,300" type="rect" fillColor="#99ffcc33"/>
+    <text id="n1_edzm" name="typeName" xy="123,70" pivot="0.5,0.5" size="754,160" font="ui://7h088bzbergj2" fontSize="120" align="center" vAlign="middle" autoSize="none" faceDilate="0.1" text="铜剑兵"/>
+    <graph id="n2_edzm" name="n2" xy="880,0" pivot="0.5,0.5" size="120,300" group="n4_edzm" type="rect" lineSize="0" fillColor="#9900ccff"/>
+    <text id="n3_edzm" name="qiyong" xy="889,6" pivot="0.5,0.5" size="98,288" group="n4_edzm" font="ui://7h088bzbergj2" fontSize="90" color="#ffffff" align="center" vAlign="middle" autoSize="none" faceDilate="0.1" text="启用"/>
+    <group id="n4_edzm" name="usingShow" xy="880,0" size="120,300" visible="false" advanced="true"/>
+  </displayList>
+</component>

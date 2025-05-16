@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,200" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n3_s7d4" name="n3" src="ib1jr" fileName="ui_basic_frame/ui_basic_frame_tips01.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5" size="600,200" visible="false" color="#000000">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <graph id="n0_s7d4" name="n0" xy="0,0" pivot="0.5,0.5" size="600,200" scale="0.985,0.955" touchable="false" type="rect" lineSize="0" fillColor="#fff0f0f0">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </graph>
+    <graph id="n1_s7d4" name="n1" xy="0,0" pivot="0.5,0.5" size="600,200" scale="0.985,0.955" touchable="false" type="rect" lineSize="0" fillColor="#fffafafa">
+      <gearDisplay controller="button" pages="2"/>
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </graph>
+    <graph id="n2_s7d4" name="n2" xy="0,0" pivot="0.5,0.5" size="600,200" scale="0.985,0.955" touchable="false" type="rect" lineSize="0" fillColor="#ffcccccc">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </graph>
+    <text id="n4_s7d4" name="n4" xy="0,55" pivot="0.5,0.5" size="600,89" fontSize="68" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.1" singleLine="true" text="洪武大帝">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

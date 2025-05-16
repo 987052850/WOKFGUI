@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="64,64" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_lpjo" name="n0" src="ecb0i" fileName="ui_basic_button/ui_basic_button_closebar01.png" xy="0,0" color="#cccccc">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_lpjo" name="n1" src="ecb0h" fileName="ui_basic_button/ui_basic_button_close01.png" xy="0,0" pivot="0.5,0.5" color="#cccccc">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_ksa2" name="n2" src="ecb0i" fileName="ui_basic_button/ui_basic_button_closebar01.png" xy="0,0">
+      <gearDisplay controller="button" pages="2,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_ksa2" name="n3" src="ecb0h" fileName="ui_basic_button/ui_basic_button_close01.png" xy="0,0" pivot="0.5,0.5">
+      <gearDisplay controller="button" pages="2,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n4_ksa2" name="n4" src="ecb0i" fileName="ui_basic_button/ui_basic_button_closebar01.png" xy="0,1" color="#999999">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n5_ksa2" name="n5" src="ecb0h" fileName="ui_basic_button/ui_basic_button_close01.png" xy="0,1" pivot="0.5,0.5" color="#999999">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

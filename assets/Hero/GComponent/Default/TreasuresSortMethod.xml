@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="288,296" opaque="false">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <graph id="n0_oc5d" name="n0" xy="0,0" size="288,42" type="rect">
+      <gearDisplay controller="c1" pages="0"/>
+    </graph>
+    <graph id="n1_oc5d" name="n1" xy="0,0" size="288,42" type="rect" fillColor="#ff00ffff">
+      <gearDisplay controller="c1" pages="1"/>
+    </graph>
+    <text id="n2_oc5d" name="n2" xy="144,0" pivot="0.5,0" anchor="true" size="264,42" fontSize="28" color="#ff0000" vAlign="middle" autoSize="none" text="稀有度"/>
+    <graph id="n3_oc5d" name="n3" xy="0,43" size="144,50" group="n8_oc5d" type="rect"/>
+    <text id="n4_oc5d" name="up" xy="0,43" size="144,50" group="n8_oc5d" font="ui://7h088bzbergj2" fontSize="28" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.1" text="升序">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+    <graph id="n5_oc5d" name="n5" xy="288,43" pivot="1,0" anchor="true" size="144,50" group="n8_oc5d" type="rect"/>
+    <text id="n6_oc5d" name="down" xy="288,43" pivot="1,0" anchor="true" size="144,50" group="n8_oc5d" font="ui://7h088bzbergj2" fontSize="28" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.1" text="降序">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+    <list id="n7_oc5d" name="n7" xy="0,93" size="288,203" group="n8_oc5d" overflow="scroll" lineGap="10" defaultItem="ui://clm51bb7oc5d1l">
+      <relation target="" sidePair="left-left,top-top"/>
+      <item title="1"/>
+      <item title="2"/>
+      <item title="3"/>
+      <item title="4"/>
+      <item title="5"/>
+      <item title="6"/>
+    </list>
+    <group id="n8_oc5d" name="n8" xy="0,43" size="288,253" visible="false" advanced="true"/>
+  </displayList>
+</component>

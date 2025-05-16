@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3,1200" extention="ScrollBar">
+  <displayList>
+    <graph id="n0_r4e3" name="n0" xy="0,0" size="3,1150" touchable="false" type="rect" lineSize="0" fillColor="#fff0f0f0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_r4e3" name="bar" xy="0,0" size="3,1150">
+      <relation target="" sidePair="height-height"/>
+    </graph>
+    <component id="n2_r4e3" name="grip" src="r4e3j" fileName="GComponent/Default/ScrollBar_grip.xml" xy="1,0" pivot="0.5,0" anchor="true">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <graph id="n3_r4e3" name="n3" xy="0,1150" size="3,50" touchable="false" type="rect" lineSize="0" fillColor="#fff0f0f0">
+      <relation target="" sidePair="width-width"/>
+      <relation target="n0_r4e3" sidePair="top-bottom"/>
+    </graph>
+  </displayList>
+  <ScrollBar/>
+</component>

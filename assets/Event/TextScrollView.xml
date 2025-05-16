@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1400,400" pivot="0.5,0.5" anchor="true" overflow="scroll" scrollBarFlags="1288" scrollBar="hidden" mask="n2_cmjo" reversedMask="true">
+  <displayList>
+    <graph id="n2_cmjo" name="n2" xy="0,0" size="1400,400" alpha="0" type="rect"/>
+    <text id="n1_cmjo" name="n1" xy="0,0" size="1400,560" font="ui://7h088bzbergj2" fontSize="48" autoSize="height" strokeColor="#000000" strokeSize="0" faceDilate="0.05" text="1&#xA;2&#xA;3&#xA;4&#xA;5&#xA;6&#xA;7&#xA;8&#xA;9"/>
+  </displayList>
+</component>

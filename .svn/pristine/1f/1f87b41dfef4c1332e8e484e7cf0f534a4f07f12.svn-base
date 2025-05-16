@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" extention="ProgressBar">
+  <displayList>
+    <image id="n9_ecb0" name="bar" src="ecb0i" fileName="ui_basic_button/ui_basic_button_closebar01.png" pkg="7h088bzb" xy="50,50" pivot="0.5,0.5" anchor="true" size="64,64" fillMethod="radial360">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+  <transition name="t0"/>
+</component>

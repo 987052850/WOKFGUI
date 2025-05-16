@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1080" opaque="false">
+  <displayList>
+    <component id="n14_p2hy" name="n14" src="p2hyf" fileName="GComponent/Default/Btn_Filter.xml" xy="0,0" pivot="0.5,0.5"/>
+    <graph id="n1_eu5c" name="level1Graphic" xy="80,0" size="250,120" group="n8_eu5c" type="rect" fillColor="#ff00ff00"/>
+    <text id="n5_eu5c" name="level1Text" xy="80,60" pivot="0,0.5" anchor="true" size="196,64" group="n8_eu5c" fontSize="48" color="#cccccc" strokeColor="#990099" strokeSize="0.1" text="一级标签"/>
+    <list id="n11_eu5c" name="n11" xy="80,120" size="250,500" group="n8_eu5c" overflow="scroll" lineGap="10" defaultItem="ui://clm51bb7eu5c6">
+      <item/>
+      <item/>
+    </list>
+    <group id="n8_eu5c" name="level1" xy="80,0" size="250,620" group="n4_eu5c" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <graph id="n2_eu5c" name="level2Graphic" xy="330,0" size="250,120" group="n9_eu5c" type="rect" fillColor="#ff000000"/>
+    <text id="n6_eu5c" name="level2Text" xy="330,60" pivot="0,0.5" anchor="true" size="196,64" group="n9_eu5c" fontSize="48" color="#cccccc" strokeColor="#990099" strokeSize="0.1" text="二级标签"/>
+    <list id="n12_eu5c" name="n12" xy="330,120" size="250,500" group="n9_eu5c" overflow="scroll" lineGap="10" defaultItem="ui://clm51bb7eu5c6">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n9_eu5c" name="level2" xy="330,0" size="250,620" group="n4_eu5c" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <graph id="n3_eu5c" name="level3Graphic" xy="580,0" size="250,120" group="n10_eu5c" type="rect" fillColor="#ffff0000"/>
+    <text id="n7_eu5c" name="level3Text" xy="580,60" pivot="0,0.5" anchor="true" size="196,64" group="n10_eu5c" fontSize="48" color="#cccccc" strokeColor="#990099" strokeSize="0.1" text="三级标签"/>
+    <list id="n13_eu5c" name="n13" xy="580,120" size="250,500" group="n10_eu5c" overflow="scroll" lineGap="10" defaultItem="ui://clm51bb7eu5c6">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n10_eu5c" name="level3" xy="580,0" size="250,620" group="n4_eu5c" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <group id="n4_eu5c" name="tags" xy="80,0" size="750,620" visible="false" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+  </displayList>
+</component>

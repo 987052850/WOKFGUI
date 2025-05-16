@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="647,102" pivot="1,0" anchor="true" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_ib1j" name="n3" src="ib1jp" fileName="ui_basic_frame/ui_basic_frame_halfpapertitle.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5"/>
+    <text id="n2_wku2" name="n2" xy="647,51" pivot="1,0.5" anchor="true" size="473,102" fontSize="68" color="#ff0000" align="center" vAlign="middle" autoSize="none" text="不可点击"/>
+  </displayList>
+  <Button/>
+</component>

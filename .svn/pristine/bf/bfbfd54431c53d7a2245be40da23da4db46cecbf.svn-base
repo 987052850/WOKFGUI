@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <controller name="tabBtnGroup" pages="0,,1," selected="0"/>
+  <displayList>
+    <graph id="n0_lpjo" name="n0" xy="1921,1930" pivot="0.5,1" anchor="true" size="3000,1700" type="rect" fillColor="#800066cc"/>
+    <text id="n1_lpjo" name="n1" xy="1575,237" pivot="0.5,0.5" size="690,129" font="ui://7h088bzbergj2" fontSize="100" color="#ffffff" align="center" vAlign="middle" autoSize="none" faceDilate="0.05" text="军事"/>
+    <component id="n5_lpjo" name="legion" src="lpjo4" fileName="tabBtn.xml" xy="430,285" pivot="0.5,0.5">
+      <Button checked="true" controller="tabBtnGroup" page="0"/>
+    </component>
+    <component id="n6_lpjo" name="rank" src="lpjo4" fileName="tabBtn.xml" xy="640,285" pivot="0.5,0.5">
+      <Button title="军爵" controller="tabBtnGroup" page="1"/>
+    </component>
+    <component id="n8_lpjo" name="closeBtn" src="lpjoo" fileName="component_btn/CloseBtn.xml" pkg="7h088bzb" xy="3279,238" pivot="0.5,0.5" size="123,123"/>
+    <component id="n10_lpjo" name="panelC" src="lpjo8" fileName="PanelC.xml" xy="1919,1930" pivot="0.5,1" anchor="true"/>
+  </displayList>
+</component>

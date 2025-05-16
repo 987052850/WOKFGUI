@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="clm51bb7">
+  <resources>
+    <component id="eu5c0" name="SDD.xml" path="/GComponent/Extensions/"/>
+    <component id="eu5c1" name="Main.xml" path="/" exported="true"/>
+    <component id="eu5c2" name="ScrollView_FamousOfficials.xml" path="/GComponent/Extensions/"/>
+    <component id="eu5c3" name="Btn_Search.xml" path="/GComponent/Default/"/>
+    <component id="eu5c5" name="DrapDown_Sort.xml" path="/GComponent/Extensions/"/>
+    <component id="eu5c6" name="Btn_SearchItem.xml" path="/GComponent/Default/"/>
+    <component id="eu5c7" name="Filter.xml" path="/GComponent/Extensions/"/>
+    <image id="p2hy8" name="illus_chabg_0001.png" path="/hero/" exported="true"/>
+    <image id="p2hy9" name="ui_hero_mask.png" path="/hero/"/>
+    <image id="p2hya" name="img_herohead001.png" path="/hero/" exported="true"/>
+    <component id="p2hyd" name="Btn_FOItem.xml" path="/GComponent/Extensions/"/>
+    <component id="p2hye" name="Btn_SortTitle.xml" path="/GComponent/Default/"/>
+    <component id="p2hyf" name="Btn_Filter.xml" path="/GComponent/Default/"/>
+    <component id="r4e3j" name="ScrollBar_grip.xml" path="/GComponent/Default/"/>
+    <component id="r4e3k" name="ScrollBar.xml" path="/GComponent/Default/"/>
+    <component id="oc5dl" name="Btn_Close.xml" path="/GComponent/Default/"/>
+    <component id="oc5dm" name="Btn_SwitchPage.xml" path="/GComponent/Default/"/>
+    <component id="oc5dn" name="PageList.xml" path="/GComponent/Default/"/>
+    <component id="oc5do" name="Page_Basic.xml" path="/GComponent/Extensions/"/>
+    <component id="oc5dp" name="ProgressBar.xml" path="/GComponent/Default/"/>
+    <component id="oc5dq" name="BasicAttributePair.xml" path="/GComponent/Default/"/>
+    <component id="oc5dr" name="CharateristicList.xml" path="/GComponent/Default/"/>
+    <image id="oc5ds" name="icon_female_green.png" path="/UIAssets/icon_gender/" exported="true"/>
+    <image id="oc5dt" name="icon_female_orange.png" path="/UIAssets/icon_gender/" exported="true"/>
+    <image id="oc5du" name="icon_female_red.png" path="/UIAssets/icon_gender/" exported="true"/>
+    <image id="oc5dv" name="icon_female_yellow.png" path="/UIAssets/icon_gender/" exported="true"/>
+    <image id="oc5dw" name="icon_male_green.png" path="/UIAssets/icon_gender/" exported="true"/>
+    <image id="oc5dx" name="icon_male_orange.png" path="/UIAssets/icon_gender/" exported="true"/>
+    <image id="oc5dy" name="icon_male_red.png" path="/UIAssets/icon_gender/" exported="true"/>
+    <image id="oc5dz" name="icon_male_yellow.png" path="/UIAssets/icon_gender/" exported="true"/>
+    <image id="oc5d10" name="icon_heropolicy.png" path="/UIAssets/icon_hero/"/>
+    <image id="oc5d11" name="icon_heroskill.png" path="/UIAssets/icon_hero/"/>
+    <image id="oc5d12" name="icon_herotrait.png" path="/UIAssets/icon_hero/"/>
+    <component id="oc5d13" name="CharaterisicItem.xml" path="/GComponent/Default/"/>
+    <component id="oc5d14" name="NameMgr.xml" path="/GComponent/Default/"/>
+    <image id="oc5d16" name="名臣列表_ 基本效果图.jpg" path="/"/>
+    <image id="oc5d17" name="icon_nationemblem_008.png" path="/UIAssets/icon_nationemblem/" exported="true"/>
+    <image id="oc5d18" name="icon_nationemblem_009.png" path="/UIAssets/icon_nationemblem/" exported="true"/>
+    <component id="oc5d19" name="Page_Treasures.xml" path="/GComponent/Extensions/"/>
+    <component id="oc5d1a" name="Page_Personal.xml" path="/GComponent/Extensions/"/>
+    <component id="oc5d1b" name="PersonalParents.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1c" name="PersonalRelationship.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1d" name="PersonalBigraphies.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1e" name="PersonalBigraphiesText.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1f" name="TreasuresItem.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1g" name="TreasureMgr.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1h" name="TreasuresMgrText.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1i" name="TreasuresEquipmentWarehouse.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1j" name="TreasuresShowCur.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1k" name="TreasuresSortMethod.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1l" name="TreasuresSortItem.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1m" name="TreasuresEquipmentItem.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1n" name="TreasuresEquipmentIcon.xml" path="/GComponent/Default/"/>
+    <component id="oc5d1o" name="MaskFOIcon.xml" path="/GComponent/Default/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

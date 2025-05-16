@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="2736,612" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n7_cmjo" name="n7" src="lp9y9" fileName="ui_assets/ui/common/ui_common_paperframe01.png" xy="1368,306" pivot="0.5,0.5" anchor="true"/>
+    <image id="n8_cmjo" name="n8" src="lp9y3" fileName="ui_assets/img/event/img_event_test01.png" xy="2054,306" pivot="0.5,0.5" anchor="true"/>
+    <text id="n9_cmjo" name="n9" xy="143,32" size="244,79" font="ui://hclr9l1rlp9y1" fontSize="60" text="事件标题"/>
+    <component id="n11_cmjo" name="n11" src="cmjoq" fileName="ScrollView.xml" xy="843,318" pivot="0.5,0.5" anchor="true"/>
+  </displayList>
+</component>

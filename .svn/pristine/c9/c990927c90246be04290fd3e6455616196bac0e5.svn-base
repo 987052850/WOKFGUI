@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2zmvprx6">
+  <resources>
+    <component id="fox10" name="Main.xml" path="/" exported="true"/>
+    <component id="7s3m2" name="radioBtn.xml" path="/components/"/>
+  </resources>
+  <publish name="WorldUI"/>
+</packageDescription>

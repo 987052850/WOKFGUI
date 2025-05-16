@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,200">
+  <displayList>
+    <text id="n0_s7d4" name="n0" xy="0,29" pivot="0.5,0.5" size="800,141" fontSize="48" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.1" text="侧重风格：军事战争&#xA;初始难度：容易"/>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="236,128">
+  <displayList>
+    <text id="n0_oc5d" name="title" xy="0,13" pivot="0.5,0.5" size="236,39" font="ui://7h088bzbrii9q" fontSize="28" color="#969287" align="center" vAlign="middle" autoSize="none" text="百家流派"/>
+    <text id="n2_oc5d" name="name" xy="0,50" pivot="0.5,0.5" size="236,54" fontSize="40" color="#ece8df" align="center" vAlign="middle" autoSize="none" text="---"/>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8iklr1ke">
+  <resources>
+    <image id="mm5s0" name="ui_dlg_content_large.png" path="/ui_tmp/"/>
+    <image id="mm5s1" name="ui_dlg_name.png" path="/ui_tmp/"/>
+    <component id="mm5s3" name="Main.xml" path="/" exported="true"/>
+    <image id="mm5s5" name="ui_dlg_content.png" path="/ui_tmp/"/>
+    <image id="mm5s6" name="1.png" path="/ui_tmp/"/>
+    <image id="mm5s7" name="2.png" path="/ui_tmp/"/>
+    <image id="mm5s8" name="3.png" path="/ui_tmp/"/>
+    <image id="mm5s9" name="bg1.png" path="/ui_tmp/"/>
+    <component id="ys0da" name="Simple.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

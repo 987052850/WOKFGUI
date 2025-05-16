@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1130,100">
+  <displayList>
+    <image id="n0_l845" name="title_r" src="lp9yb" fileName="ui_assets/ui/common/ui_common_titlepattern00.png" xy="565,0"/>
+    <image id="n1_l845" name="title_l" src="lp9yb" fileName="ui_assets/ui/common/ui_common_titlepattern00.png" xy="0,0" flip="hz"/>
+  </displayList>
+</component>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160" opaque="false">
+  <controller name="RadioGroup" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <graph id="n1_fox1" name="n1" xy="1419,2066" size="1000,94" group="n21_lpjo" type="rect" fillColor="#80ffffff">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </graph>
+    <component id="n20_cvjf" name="defaultShow" src="7s3m2" fileName="radioBtn.xml" xy="1452,2084" pivot="0.5,0.5" group="n21_lpjo">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button checked="true" title="动  态" controller="RadioGroup" page="0"/>
+    </component>
+    <component id="n19_7s3m" name="fiefShow" src="7s3m2" fileName="radioBtn.xml" xy="1689,2084" pivot="0.5,0.5" group="n21_lpjo">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="采  邑" controller="RadioGroup" page="1"/>
+    </component>
+    <component id="n18_7s3m" name="countyShow" src="7s3m2" fileName="radioBtn.xml" xy="1936,2084" pivot="0.5,0.5" group="n21_lpjo">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="郡  县" controller="RadioGroup" page="2"/>
+    </component>
+    <component id="n17_7s3m" name="countryShow" src="7s3m2" fileName="radioBtn.xml" xy="2176,2084" pivot="0.5,0.5" group="n21_lpjo">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="国  家" controller="RadioGroup" page="3"/>
+    </component>
+    <group id="n21_lpjo" name="bottom" xy="1419,2066" size="1000,94"/>
+    <graph id="n22_lpjo" name="n22" xy="3841,1080" pivot="1,0.5" anchor="true" size="250,696" group="n24_lpjo" type="rect" fillColor="#80ffffff">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </graph>
+    <component id="n23_lpjo" name="legionPanelBtn" src="7s3m2" fileName="radioBtn.xml" xy="3616,772" pivot="0.5,0.5" group="n24_lpjo">
+      <relation target="" sidePair="middle-middle,right-right"/>
+      <Button title="军  团" controller="RadioGroup" page="1"/>
+    </component>
+    <group id="n24_lpjo" name="right" xy="3591,732" size="250,696"/>
+  </displayList>
+</component>

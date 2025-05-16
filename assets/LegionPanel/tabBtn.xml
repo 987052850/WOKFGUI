@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,80" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
+  <displayList>
+    <graph id="n0_lpjo" name="n0" xy="0,0" size="200,80" touchable="false" type="rect" lineSize="0" fillColor="#fff0f0f0" corner="20">
+      <gearDisplay controller="button" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_lpjo" name="n1" xy="0,-1" size="200,80" touchable="false" type="rect" lineSize="0" fillColor="#fffafafa" corner="20">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n2_lpjo" name="n2" xy="0,0" size="200,80" touchable="false" type="rect" lineSize="0" fillColor="#ffcccccc" corner="20">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n3_lpjo" name="title" xy="0,-6" size="200,92" font="ui://7h088bzbergj2" fontSize="70" color="#00ccff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.05" faceDilate="0.1" singleLine="true" text="军团">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

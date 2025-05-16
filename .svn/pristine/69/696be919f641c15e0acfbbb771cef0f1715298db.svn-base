@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1366,612" pivot="0.5,0.5" anchor="true" opaque="false">
+  <displayList>
+    <image id="n0_ecb0" name="n0" src="lp9y3" fileName="ui_assets/img/event/img_event_test01.png" xy="683,306" pivot="0.5,0.5" anchor="true"/>
+  </displayList>
+</component>

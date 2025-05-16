@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <displayList>
+    <graph id="n0_m962" name="n0" xy="2,-4" size="3840,2160" aspect="true" type="rect" lineSize="0" fillColor="#6bffffff">
+      <relation target="" sidePair="rightext-right,topext-top,bottomext-bottom,leftext-left"/>
+    </graph>
+    <graph id="n5_czou" name="n5" xy="0,0" size="345,345" type="rect" lineSize="8" fillColor="#ff00cc33">
+      <relation target="" sidePair="left-left,top-top"/>
+    </graph>
+    <graph id="n6_czou" name="n6" xy="3495,1813" pivot="0.5,0.5" size="345,345" type="rect" lineSize="8" fillColor="#ffff0000">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </graph>
+    <component id="n7_sngn" name="testBattle" src="m9621" fileName="GamBtn.xml" xy="1200,1577" size="248,173">
+      <relation target="" sidePair="right-center%,bottom-bottom"/>
+      <Button title="战斗&#xA;测试"/>
+    </component>
+    <component id="n2_m962" name="enterGame" src="m9621" fileName="GamBtn.xml" xy="2392,1577" size="248,173">
+      <relation target="" sidePair="right-center%,bottom-bottom"/>
+      <Button title="进入&#xA;游戏"/>
+    </component>
+    <component id="n8_lpjo" name="playDialog" src="m9621" fileName="GamBtn.xml" xy="427,1575" size="248,173" group="n11_lpjo">
+      <relation target="" sidePair="right-center%,bottom-bottom"/>
+      <Button title="对话&#xA;测试"/>
+    </component>
+    <graph id="n10_lpjo" name="n10" xy="395,1767" pivot="0.5,0.5" size="300,83" group="n11_lpjo" type="rect" lineSize="3">
+      <relation target="" sidePair="right-center%,bottom-bottom"/>
+    </graph>
+    <text id="n9_lpjo" name="dialogIdInput" xy="394,1770" pivot="0.5,0.5" size="296,79" group="n11_lpjo" fontSize="60" align="center" autoSize="none" faceDilate="0.1" text="1" input="true">
+      <relation target="" sidePair="right-center%,bottom-bottom"/>
+    </text>
+    <group id="n11_lpjo" name="TestDialog" xy="394,1575" size="301,275"/>
+    <component id="n17_qoux" name="staticDataRefresh" src="m9621" fileName="GamBtn.xml" xy="430,1261" size="248,173">
+      <relation target="" sidePair="right-center%,bottom-bottom"/>
+      <Button title="刷新&#xA;静态表"/>
+    </component>
+    <component id="n18_igv7" name="closeBtn" src="m9621" fileName="GamBtn.xml" xy="3472,86" size="248,173">
+      <relation target="" sidePair="left-right,top-top"/>
+      <Button title="退出" titleFontSize="90"/>
+    </component>
+  </displayList>
+</component>

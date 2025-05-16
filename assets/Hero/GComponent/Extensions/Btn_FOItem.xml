@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="448,94" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0">
+    <action type="play_transition" fromPage="" toPage="2" transition="t0"/>
+    <action type="play_transition" fromPage="2" toPage="" transition="t1"/>
+  </controller>
+  <displayList>
+    <image id="n3_p2hy" name="n3" src="ttkr1g" fileName="ui_basic_button/ui_basic_button_middlechangeD.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <image id="n4_p2hy" name="n4" src="ttkr1e" fileName="ui_basic_button/ui_basic_button_middlechangeN.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+    <image id="n5_p2hy" name="n5" src="ttkr1f" fileName="ui_basic_button/ui_basic_button_middlechangeH.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5">
+      <gearDisplay controller="button" pages="2"/>
+    </image>
+    <text id="n6_p2hy" name="n6" xy="104,8" pivot="0,0.5" size="345,76" font="ui://7h088bzbergj2" fontSize="42" color="#969287" align="center" vAlign="middle" autoSize="none" shadowColor="#1d1a1a" shadowOffset="0.1,0.1" text="name">
+      <relation target="" sidePair=""/>
+    </text>
+    <component id="n9_oc5d" name="n9" src="oc5d1o" fileName="GComponent/Default/MaskFOIcon.xml" xy="3,47" pivot="0,0.5" anchor="true"/>
+  </displayList>
+  <Button mode="Check" downEffect="dark" downEffectValue="0.6"/>
+</component>

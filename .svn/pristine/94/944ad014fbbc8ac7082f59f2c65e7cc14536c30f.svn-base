@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wdgxem6f">
+  <resources>
+    <component id="ry7d0" name="Main.xml" path="/" exported="true"/>
+    <component id="lpjo4" name="tabBtn.xml" path="/components/"/>
+    <component id="lpjo5" name="LegionTabPanel.xml" path="/" exported="true"/>
+    <component id="lpjo6" name="RankTabPanel.xml" path="/" exported="true"/>
+    <component id="lpjo8" name="PanelC.xml" path="/components/"/>
+    <component id="ksa29" name="LegionListItem.xml" path="/" exported="true"/>
+    <component id="ksa2a" name="forceBar.xml" path="/components/"/>
+    <component id="ksa2b" name="ArmyListItem.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

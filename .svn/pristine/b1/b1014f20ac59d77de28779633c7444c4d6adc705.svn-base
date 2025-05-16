@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="976,218" mask="n1_lpmw" reversedMask="true">
+  <displayList>
+    <image id="n0_lpmw" name="n0" src="l693b" fileName="ui_basic_frame/ui_basic_frame_paper01.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5" size="976,218"/>
+    <image id="n1_lpmw" name="n1" src="lpmwt" fileName="Shape 1 copy 4.png" xy="436,44" pivot="0.5,0.5" size="141,141"/>
+  </displayList>
+</component>

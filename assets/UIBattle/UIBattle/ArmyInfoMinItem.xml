@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <component id="n2_zhyr" name="bgButton" src="zhyro" fileName="UIBattle/ArmyInfoMinButton.xml" xy="0,0" pivot="0.5,0.5" size="100,100"/>
+    <graph id="n3_zhyr" name="icon" xy="10,0" pivot="0.5,0.5" size="80,80" touchable="false" type="rect"/>
+    <component id="n4_zhyr" name="soldier" src="dxagg" fileName="UIBattle/ProgressBar.xml" xy="-45,45" pivot="0.5,0.5" size="100,10" rotation="270" touchable="false">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n5_zhyr" name="morale" src="dxagg" fileName="UIBattle/ProgressBar.xml" xy="45,45" pivot="0.5,0.5" size="100,10" rotation="270" touchable="false">
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1468,1360">
+  <displayList>
+    <text id="n0_oc5d" name="n0" xy="-5,3" pivot="0.5,0.5" size="1468,1360" font="ui://7h088bzbrii9p" fontSize="70" autoSize="none" text="朔极之矛（ Spear of Shojin ）曾是《英雄联盟》中的一件传奇级攻击装备，售价 3000 金币，由 暴风之剑＋燃烧宝石＋红水晶合成，属性提供 65 攻击力、200 生命值与 10 % 技能急速。其核心机制是唯一被动「觉醒之龙」：在你施放终极技能后，10 秒内的下一次普通攻击会激活一个持续 6 秒的强化窗口，期间你获得 50 % 攻击速度，并且每次普攻会返还自身 20 % 的剩余非大招技能冷却时间——让依赖技能连放的战士或暴击斗士能在团战里短时间爆发出成吨技能。装备曾于 V9.23 版本从召唤师峡谷移除，后在极限闪击等轮换模式回归，如今已成为老玩家口中的“博物馆藏品”，但其【大招→普攻→连锁技能】的设计理念仍影响着后续多件战士装备的被动思路">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

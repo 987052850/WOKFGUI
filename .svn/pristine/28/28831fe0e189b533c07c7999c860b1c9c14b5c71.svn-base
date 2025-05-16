@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,300">
+  <displayList>
+    <graph id="n0_s7d4" name="n0" xy="0,0" size="1080,300" type="rect"/>
+    <text id="n1_s7d4" name="n1" xy="0,0" size="600,90" fontSize="68" autoSize="none" strokeColor="#000000" strokeSize="0.1" text="&#x9;&#x9;名臣列表"/>
+  </displayList>
+</component>

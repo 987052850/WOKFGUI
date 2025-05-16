@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7h088bzb">
+  <resources>
+    <font id="ergj2" name="mianfeiziti.ttf" path="/font/" renderMode="sdfaa" samplePointSize="35"/>
+    <image id="l6938" name="ui_basic_button_long01.png" path="/ui_basic_button/" exported="true"/>
+    <image id="l6939" name="ui_basic_button_long01_on.png" path="/ui_basic_button/" exported="true"/>
+    <image id="l693a" name="ui_basic_frame_big01.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="l693b" name="ui_basic_frame_paper01.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="l693c" name="ui_basic_frame_tips01.png" path="/ui_basic_frame/" exported="true" scale="9grid" scale9grid="3,3,6,6"/>
+    <image id="l693d" name="ui_basic_frame_title01.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="l693e" name="ui_basic_line_coldgreen_#6a8483.png" path="/ui_basic_line/" exported="true" scale="tile" scale9grid="1,1,2,2"/>
+    <image id="l693f" name="ui_basic_pattern_title00.png" path="/ui_basic_pattern/" exported="true"/>
+    <image id="l693g" name="ui_basic_pattern_title01.png" path="/ui_basic_pattern/" exported="true"/>
+    <image id="ecb0h" name="ui_basic_button_close01.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ecb0i" name="ui_basic_button_closebar01.png" path="/ui_basic_button/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="ecb0j" name="ui_basic_button_long01_null.png" path="/ui_basic_button/" exported="true"/>
+    <image id="umfuk" name="ui_basic_frame_halfpapertitle.png" path="/ui_basic_frame/" exported="true"/>
+    <component id="nahkn" name="Btn1.xml" path="/component_btn/" exported="true"/>
+    <component id="lpjoo" name="CloseBtn.xml" path="/component_btn/" exported="true"/>
+  </resources>
+  <publish name="Basic"/>
+</packageDescription>

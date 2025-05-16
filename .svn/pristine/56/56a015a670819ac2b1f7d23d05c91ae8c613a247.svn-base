@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <displayList>
+    <image id="n11_mm5s" name="bg" src="mm5s9" fileName="ui_tmp/bg1.png" xy="0,1" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n15_ys0d" name="changeBg" src="mm5s9" fileName="ui_tmp/bg1.png" xy="0,-1" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n4_mm5s" name="feature1" src="mm5s6" fileName="ui_tmp/1.png" xy="932,1534" pivot="0.5,1" anchor="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n6_mm5s" name="feature2" src="mm5s7" fileName="ui_tmp/2.png" xy="1916,1534" pivot="0.5,1" anchor="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n7_mm5s" name="feature3" src="mm5s8" fileName="ui_tmp/3.png" xy="2900,1532" pivot="0.5,1" anchor="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n9_mm5s" name="n9" src="mm5s1" fileName="ui_tmp/ui_dlg_name.png" xy="487,1425" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n0_mm5s" name="n0" src="mm5s0" fileName="ui_tmp/ui_dlg_content_large.png" xy="420,1535" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <text id="n10_mm5s" name="nameLb" xy="599,1482" pivot="0,0.5" anchor="true" size="522,85" font="ui://7h088bzbergj2" fontSize="65" color="#ffffff" vAlign="middle" autoSize="none" faceDilate="0.1" text="西施">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <richtext id="n12_mm5s" name="contentLb" xy="637,1568" pivot="0.5,0.5" size="2500,308" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="qqqqqqqqqqqqqeeeeeeeeeeeee">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </richtext>
+    <graph id="n13_mm5s" name="arrow" xy="3010,1808" pivot="0.5,0.5" size="122,122" aspect="true" type="regular_polygon" lineSize="0" fillColor="#ff081527" sides="3" startAngle="90" distances="0.018,,"/>
+    <graph id="n14_mkxy" name="mask" xy="0,-1" pivot="0.5,0.5" size="3840,2160" alpha="0" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="rightext-right,topext-top,bottomext-bottom,leftext-left"/>
+    </graph>
+  </displayList>
+</component>

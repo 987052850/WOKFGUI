@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3196,1507" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n8_p2hy" name="n8" src="p2hy1b" fileName="ui_basic_frame/ui_basic_frame_main01.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5" size="3196,1508">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <image id="n6_p2hy" name="n6" src="p2hy8" fileName="hero/illus_chabg_0001.png" xy="392,64" pivot="0.5,0.5"/>
+    <image id="n5_p2hy" name="n5" src="p2hy10" fileName="ui_basic_pattern/ui_basic_pattern_rightdown.png" pkg="7h088bzb" xy="3,0"/>
+    <image id="n3_p2hy" name="n3" src="p2hy18" fileName="ui_basic_frame/ui_basic_frame_title02.png" pkg="7h088bzb" xy="-69,-60">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <image id="n4_p2hy" name="n4" src="p2hy11" fileName="ui_basic_pattern/ui_basic_pattern_mainleftup.png" pkg="7h088bzb" xy="3196,1507" pivot="1,1" anchor="true"/>
+    <component id="n0_eu5c" name="n0" src="eu5c2" fileName="GComponent/Extensions/ScrollView_FamousOfficials.xml" xy="60,1507" pivot="0,1" anchor="true" size="500,1350"/>
+    <component id="n1_eu5c" name="n1" src="eu5c0" fileName="GComponent/Extensions/SDD.xml" xy="1905,149" pivot="0.5,0.5"/>
+    <component id="n2_eu5c" name="n2" src="eu5c7" fileName="GComponent/Extensions/Filter.xml" xy="435,157" pivot="0.5,0.5"/>
+  </displayList>
+</component>

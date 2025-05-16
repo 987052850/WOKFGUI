@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3196,1507" opaque="false">
+  <displayList>
+    <list id="n0_oc5d" name="n0" xy="1719,258" pivot="0.5,0.5" size="554,1100" layout="flow_hz" overflow="hidden" lineGap="33" colGap="34" defaultItem="ui://clm51bb7oc5d1f">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n1_oc5d" name="n1" src="oc5d1g" fileName="GComponent/Default/TreasureMgr.xml" xy="1268,260" pivot="0.5,0.5"/>
+    <component id="n2_oc5d" name="n2" src="oc5d1i" fileName="GComponent/Default/TreasuresEquipmentWarehouse.xml" xy="3196,778" pivot="1,0.5" anchor="true"/>
+  </displayList>
+</component>

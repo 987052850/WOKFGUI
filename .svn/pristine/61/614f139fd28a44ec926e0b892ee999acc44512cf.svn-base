@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <displayList>
+    <image id="n11_ys0d" name="bg" src="mm5s9" fileName="ui_tmp/bg1.png" xy="0,2" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n12_ys0d" name="changeBg" src="mm5s9" fileName="ui_tmp/bg1.png" xy="-3,0" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <graph id="n21_ys0d" name="mask" xy="-1,0" pivot="0.5,0.5" size="3840,2160" alpha="0" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="rightext-right,topext-top,bottomext-bottom,leftext-left"/>
+    </graph>
+    <image id="n13_ys0d" name="feature" src="mm5s6" fileName="ui_tmp/1.png" xy="626,1536" pivot="0.5,1" anchor="true" group="n25_ys0d">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n23_ys0d" name="n23" src="mm5s5" fileName="ui_tmp/ui_dlg_content.png" xy="0,1543" pivot="0.5,0.5" group="n25_ys0d"/>
+    <richtext id="n19_ys0d" name="contentLb" xy="112,1571" pivot="0.5,0.5" size="1068,308" group="n25_ys0d" font="ui://7h088bzbrii9q" fontSize="60" autoSize="none" text="qqqqqqqqqqqqqeeeeeeeeeeeee">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </richtext>
+    <graph id="n20_ys0d" name="arrow" xy="1057,1807" pivot="0.5,0.5" size="122,122" group="n25_ys0d" aspect="true" type="regular_polygon" lineSize="0" fillColor="#ff003399" sides="3" startAngle="90" distances="0.018,,"/>
+    <image id="n16_ys0d" name="n16" src="mm5s1" fileName="ui_tmp/ui_dlg_name.png" xy="42,1432" pivot="0.5,0.5" group="n25_ys0d">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <text id="n18_ys0d" name="nameLb" xy="154,1489" pivot="0,0.5" anchor="true" size="522,85" group="n25_ys0d" font="ui://7h088bzbrii9q" fontSize="65" color="#ffffff" vAlign="middle" autoSize="none" text="西施">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <group id="n25_ys0d" name="pos1" xy="0,572" size="1413,1357"/>
+    <image id="n26_ys0d" name="feature" src="mm5s6" fileName="ui_tmp/1.png" xy="1876,1535" pivot="0.5,1" anchor="true" group="n32_ys0d">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n27_ys0d" name="n27" src="mm5s5" fileName="ui_tmp/ui_dlg_content.png" xy="1250,1542" pivot="0.5,0.5" group="n32_ys0d"/>
+    <richtext id="n28_ys0d" name="contentLb" xy="1362,1570" pivot="0.5,0.5" size="1068,308" group="n32_ys0d" font="ui://7h088bzbrii9q" fontSize="60" autoSize="none" text="qqqqqqqqqqqqqeeeeeeeeeeeee">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </richtext>
+    <graph id="n29_ys0d" name="arrow" xy="2307,1806" pivot="0.5,0.5" size="122,122" group="n32_ys0d" aspect="true" type="regular_polygon" lineSize="0" fillColor="#ff003399" sides="3" startAngle="90" distances="0.018,,"/>
+    <image id="n30_ys0d" name="n30" src="mm5s1" fileName="ui_tmp/ui_dlg_name.png" xy="1292,1431" pivot="0.5,0.5" group="n32_ys0d">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <text id="n31_ys0d" name="nameLb" xy="1404,1488" pivot="0,0.5" anchor="true" size="522,85" group="n32_ys0d" font="ui://7h088bzbrii9q" fontSize="65" color="#ffffff" vAlign="middle" autoSize="none" text="西施">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <group id="n32_ys0d" name="pos2" xy="1250,571" size="1413,1357"/>
+    <image id="n33_ys0d" name="feature" src="mm5s6" fileName="ui_tmp/1.png" xy="3140,1535" pivot="0.5,1" anchor="true" group="n39_ys0d">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <image id="n34_ys0d" name="n34" src="mm5s5" fileName="ui_tmp/ui_dlg_content.png" xy="2514,1542" pivot="0.5,0.5" group="n39_ys0d"/>
+    <richtext id="n35_ys0d" name="contentLb" xy="2626,1570" pivot="0.5,0.5" size="1068,308" group="n39_ys0d" font="ui://7h088bzbrii9q" fontSize="60" autoSize="none" text="qqqqqqqqqqqqqeeeeeeeeeeeee">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </richtext>
+    <graph id="n36_ys0d" name="arrow" xy="3571,1806" pivot="0.5,0.5" size="122,122" group="n39_ys0d" aspect="true" type="regular_polygon" lineSize="0" fillColor="#ff003399" sides="3" startAngle="90" distances="0.018,,"/>
+    <image id="n37_ys0d" name="n37" src="mm5s1" fileName="ui_tmp/ui_dlg_name.png" xy="2556,1431" pivot="0.5,0.5" group="n39_ys0d">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <text id="n38_ys0d" name="nameLb" xy="2668,1488" pivot="0,0.5" anchor="true" size="522,85" group="n39_ys0d" font="ui://7h088bzbrii9q" fontSize="65" color="#ffffff" vAlign="middle" autoSize="none" text="西施">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <group id="n39_ys0d" name="pos3" xy="2514,571" size="1413,1357"/>
+  </displayList>
+</component>

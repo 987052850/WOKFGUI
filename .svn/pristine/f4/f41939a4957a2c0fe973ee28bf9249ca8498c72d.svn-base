@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3000,1562">
+  <controller name="leginListControl" pages="0,,7,,8,,9," selected="0"/>
+  <displayList>
+    <list id="n3_ksa2" name="legionList" xy="-4,0" size="1000,1072" overflow="scroll" defaultItem="ui://wdgxem6fcy02c" selectionController="leginListControl" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_ksa2" name="createBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="284,1153" pivot="0.5,0.5" size="384,107">
+      <Button title="新建军团" titleFontSize="60"/>
+    </component>
+    <text id="n7_ksa2" name="legionNameLb" xy="1588,14" pivot="0.5,0.5" size="800,118" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="90" align="center" autoSize="none" faceDilate="0.05" text="第一军团"/>
+    <component id="n19_pj3u" name="systemBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="1488,195" pivot="0.5,0.5" anchor="true" size="338,97" group="n26_pj3u">
+      <Button title="三军制" titleFontSize="60"/>
+    </component>
+    <component id="n8_pj3u" name="disbandBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="2348,318" pivot="0.5,0.5" anchor="true" size="338,97" group="n26_pj3u">
+      <Button title="解 散" titleFontSize="60"/>
+    </component>
+    <component id="n16_pj3u" name="fullBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="2760,318" pivot="0.5,0.5" anchor="true" size="338,97" group="n26_pj3u">
+      <Button title="满 编" titleFontSize="60"/>
+    </component>
+    <component id="n18_pj3u" name="trainBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="2350,442" pivot="0.5,0.5" anchor="true" size="338,97" group="n26_pj3u">
+      <Button title="屯 田" titleFontSize="60"/>
+    </component>
+    <component id="n15_pj3u" name="forceBar" src="ksa2a" fileName="components/forceBar.xml" xy="1518,318" pivot="0.5,0.5" anchor="true" size="400,66" group="n26_pj3u">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n20_pj3u" name="placeLb" xy="2148,195" pivot="0.5,0.5" anchor="true" size="258,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="会稽"/>
+    <text id="n22_pj3u" name="costMoneyLb" xy="1353,569" pivot="0,0.5" anchor="true" size="307,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="1000"/>
+    <text id="n23_pj3u" name="costFoodLb" xy="2182,569" pivot="0,0.5" anchor="true" size="307,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="1000"/>
+    <text id="n24_pj3u" name="placeTroopLb" xy="2697,195" pivot="0,0.5" anchor="true" size="257,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="1000"/>
+    <list id="n6_ksa2" name="armyList" xy="2999,1560" pivot="1,1" anchor="true" size="2000,919" group="n26_pj3u" overflow="scroll" defaultItem="ui://wdgxem6fksa2b" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n9_pj3u" name="hhh" xy="1163,195" pivot="0.5,0.5" anchor="true" size="258,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="军制："/>
+    <text id="n10_pj3u" name="hhh" xy="1032,318" pivot="0,0.5" anchor="true" size="258,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="兵力："/>
+    <text id="n11_pj3u" name="hhh" xy="1027,442" pivot="0,0.5" anchor="true" size="355,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="综合训练度："/>
+    <text id="n12_pj3u" name="hhh" xy="1026,569" pivot="0,0.5" anchor="true" size="307,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="维护费用："/>
+    <text id="n13_pj3u" name="hhh" xy="1867,195" pivot="0.5,0.5" anchor="true" size="258,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="所在地："/>
+    <text id="n14_pj3u" name="hhh" xy="2306,195" pivot="0,0.5" anchor="true" size="373,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="当地预备役："/>
+    <text id="n17_pj3u" name="hhh" xy="1836,442" pivot="0,0.5" anchor="true" size="310,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="训练方针："/>
+    <text id="n21_pj3u" name="hhh" xy="1837,569" pivot="0,0.5" anchor="true" size="307,81" group="n26_pj3u" font="ui://7h088bzbergj2" fontSize="60" autoSize="none" faceDilate="0.05" text="维护粮草："/>
+    <group id="n26_pj3u" name="right" xy="999,14" size="2000,1546" advanced="true"/>
+  </displayList>
+</component>

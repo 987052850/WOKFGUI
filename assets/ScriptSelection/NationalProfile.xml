@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,370">
+  <displayList>
+    <text id="n0_s7d4" name="n0" xy="0,0" size="600,90" fontSize="68" autoSize="none" strokeColor="#000000" strokeSize="0.1" text="&#x9;&#x9;国家简介">
+      <relation target="" sidePair=""/>
+    </text>
+    <text id="n1_s7d4" name="nationIntorduction" xy="0,90" size="1080,280" fontSize="48" autoSize="none" text="123&#xA;234&#xA;345&#xA;456"/>
+  </displayList>
+</component>

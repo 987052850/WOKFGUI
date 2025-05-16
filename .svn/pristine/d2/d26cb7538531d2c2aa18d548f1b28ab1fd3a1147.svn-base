@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3000,1562">
+  <displayList>
+    <list id="n3_ksa2" name="legionList" xy="-2,2" size="1000,1072" overflow="scroll" autoClearItems="true">
+      <item url="ui://wdgxem6fksa29"/>
+      <item url="ui://wdgxem6fksa29"/>
+      <item url="ui://wdgxem6fksa29"/>
+      <item url="ui://wdgxem6fksa29"/>
+      <item url="ui://wdgxem6fksa29"/>
+      <item url="ui://wdgxem6fksa29"/>
+    </list>
+    <component id="n5_ksa2" name="createBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="284,1153" pivot="0.5,0.5" size="384,107">
+      <Button title="新建军团" titleFontSize="60"/>
+    </component>
+    <list id="n6_ksa2" name="armyList" xy="2999,1561" pivot="1,1" anchor="true" size="2000,1000" overflow="scroll" autoClearItems="true">
+      <item url="ui://wdgxem6fksa2b"/>
+      <item url="ui://wdgxem6fksa2b"/>
+      <item url="ui://wdgxem6fksa2b"/>
+      <item url="ui://wdgxem6fksa2b"/>
+      <item url="ui://wdgxem6fksa2b"/>
+      <item url="ui://wdgxem6fksa2b"/>
+    </list>
+    <text id="n7_ksa2" name="n7" xy="1438,33" pivot="0.5,0.5" size="1100,178" font="ui://7h088bzbergj2" fontSize="90" align="center" autoSize="none" faceDilate="0.05" text="第一军团"/>
+  </displayList>
+</component>

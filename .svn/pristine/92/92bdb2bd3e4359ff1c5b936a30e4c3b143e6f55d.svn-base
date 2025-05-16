@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="680,290">
+  <displayList>
+    <graph id="n21_ecb0" name="n21" xy="0,0" pivot="0.5,0.5" size="680,290" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <image id="n15_lp9y" name="n15" src="lp9y7" fileName="ui_assets/ui/common/ui_common_frame_tips01.png" xy="0,0" size="680,290"/>
+    <image id="n22_umfu" name="n22" src="l693e" fileName="ui_basic_line/ui_basic_line_coldgreen_#6a8483.png" pkg="7h088bzb" xy="340,100" pivot="0.5,0.5" anchor="true" size="600,4"/>
+    <text id="n17_lp9y" name="n17" xy="40,33" size="379,64" font="ui://7h088bzbergj2" fontSize="48" color="#fffaa5" vAlign="middle" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="0" faceDilate="0.05" text="Tips标题"/>
+    <text id="n19_lp9y" name="n19" xy="40,102" size="538,150" font="ui://7h088bzbergj2" fontSize="32" color="#f4f5f6" ubb="true" autoSize="shrink" strokeColor="#000000" strokeSize="0" faceDilate="0.05" text="Tipsps文本&#xA;自动调整大小"/>
+    <component id="n20_tzaz" name="n20" src="7aczr" fileName="Close.xml" xy="580,0"/>
+  </displayList>
+</component>

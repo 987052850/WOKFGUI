@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <displayList>
+    <graph id="n1_edzm" name="n1" xy="1920,1930" pivot="0.5,1" anchor="true" size="3000,1700" group="n5_edzm" type="rect" fillColor="#800066cc"/>
+    <text id="n2_edzm" name="n2" xy="1575,234" pivot="0.5,0.5" size="690,129" group="n5_edzm" font="ui://7h088bzbergj2" fontSize="100" color="#ffffff" align="center" vAlign="middle" autoSize="none" faceDilate="0.05" text="兵种"/>
+    <component id="n3_edzm" name="n3" src="lpjo8" fileName="components/PanelC.xml" xy="420,365" pivot="0.5,0.5" group="n5_edzm"/>
+    <list id="n4_edzm" name="typeList" xy="425,365" size="1000,1562" group="n5_edzm" overflow="scroll" autoClearItems="true">
+      <item url="ui://wdgxem6fedzmk"/>
+      <item url="ui://wdgxem6fedzmk"/>
+      <item url="ui://wdgxem6fedzmk"/>
+      <item url="ui://wdgxem6fedzmk"/>
+    </list>
+    <component id="n6_edzm" name="closeBtn" src="lpjoo" fileName="component_btn/CloseBtn.xml" pkg="7h088bzb" xy="3282,240" pivot="0.5,0.5" size="123,123" group="n5_edzm"/>
+    <group id="n5_edzm" name="n5" xy="420,230" size="3000,1700" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1311,200">
+  <controller name="gender" pages="0,,1," selected="0"/>
+  <controller name="healthy" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <image id="n0_oc5d" name="n0" src="oc5d17" fileName="UIAssets/icon_nationemblem/icon_nationemblem_008.png" xy="32,-1" pivot="0.5,0.5" size="200,200" aspect="true"/>
+    <image id="n1_oc5d" name="n1" src="ttkr17" fileName="ui_basic_frame/ui_basic_frame_text01.png" pkg="7h088bzb" xy="182,143" pivot="0,0.5" anchor="true"/>
+    <image id="n2_oc5d" name="n2" src="ttkr17" fileName="ui_basic_frame/ui_basic_frame_text01.png" pkg="7h088bzb" xy="182,75" pivot="0,0.5" anchor="true" size="1111,54"/>
+    <richtext id="n3_oc5d" name="name" xy="214,108" pivot="0,1" anchor="true" size="284,120" font="ui://7h088bzbrii9r" fontSize="60" color="#ece8df" vAlign="bottom" autoSize="none" text="纪博常"/>
+    <richtext id="n4_oc5d" name="courtesyName" xy="938,108" pivot="1,1" anchor="true" size="363,79" font="ui://7h088bzbrii9r" fontSize="60" color="#ece8df" align="right" vAlign="bottom" autoSize="none" text="[字    铭步裳]"/>
+    <image id="n8_oc5d" name="n8" src="oc5ds" fileName="UIAssets/icon_gender/icon_female_green.png" xy="1010,32" pivot="0.5,0.5">
+      <gearDisplay controller="healthy" pages="3"/>
+      <gearDisplay2 controller="gender" pages="0" condition="0"/>
+    </image>
+    <image id="n9_oc5d" name="n9" src="oc5dt" fileName="UIAssets/icon_gender/icon_female_orange.png" xy="1010,32" pivot="0.5,0.5">
+      <gearDisplay controller="healthy" pages="2"/>
+      <gearDisplay2 controller="gender" pages="0" condition="0"/>
+    </image>
+    <image id="n10_oc5d" name="n10" src="oc5du" fileName="UIAssets/icon_gender/icon_female_red.png" xy="1010,32" pivot="0.5,0.5">
+      <gearDisplay controller="healthy" pages="1"/>
+    </image>
+    <image id="n11_oc5d" name="n11" src="oc5dv" fileName="UIAssets/icon_gender/icon_female_yellow.png" xy="1010,32" pivot="0.5,0.5">
+      <gearDisplay controller="healthy" pages="0"/>
+    </image>
+    <image id="n12_oc5d" name="n12" src="oc5dw" fileName="UIAssets/icon_gender/icon_male_green.png" xy="1010,32" pivot="0.5,0.5">
+      <gearDisplay controller="healthy" pages="3"/>
+      <gearDisplay2 controller="gender" pages="1" condition="0"/>
+    </image>
+    <image id="n13_oc5d" name="n13" src="oc5dx" fileName="UIAssets/icon_gender/icon_male_orange.png" xy="1010,32" pivot="0.5,0.5">
+      <gearDisplay controller="healthy" pages="2"/>
+      <gearDisplay2 controller="gender" pages="1" condition="0"/>
+    </image>
+    <image id="n14_oc5d" name="n14" src="oc5dy" fileName="UIAssets/icon_gender/icon_male_red.png" xy="1010,32" pivot="0.5,0.5">
+      <gearDisplay controller="healthy" pages="1"/>
+      <gearDisplay2 controller="gender" pages="1" condition="0"/>
+    </image>
+    <image id="n15_oc5d" name="n15" src="oc5dz" fileName="UIAssets/icon_gender/icon_male_yellow.png" xy="1010,32" pivot="0.5,0.5">
+      <gearDisplay controller="healthy" pages="0"/>
+      <gearDisplay2 controller="gender" pages="1" condition="0"/>
+    </image>
+    <text id="n16_oc5d" name="state" xy="214,121" pivot="0,0.5" size="220,49" font="ui://7h088bzbrii9q" fontSize="36" color="#ece8df" ubb="true" text="担任太守中啊"/>
+    <text id="n17_oc5d" name="loyalty" xy="502,121" pivot="0,0.5" size="168,49" font="ui://7h088bzbrii9q" fontSize="36" color="#ece8df" ubb="true" text="忠诚：100"/>
+    <text id="n18_oc5d" name="good" xy="739,121" pivot="0,0.5" size="168,49" font="ui://7h088bzbrii9q" fontSize="36" color="#ece8df" ubb="true" text="好感：100"/>
+  </displayList>
+</component>

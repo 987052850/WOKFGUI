@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="350,600" opaque="false">
+  <displayList>
+    <component id="n15_p2hy" name="n15" src="p2hye" fileName="GComponent/Default/Btn_SortTitle.xml" xy="0,0"/>
+    <graph id="n13_eu5c" name="n13" xy="0,76" size="175,90" group="n11_eu5c" type="rect"/>
+    <text id="n2_eu5c" name="up" xy="0,76" size="175,90" group="n11_eu5c" font="ui://7h088bzbergj2" fontSize="68" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.1" text="升序">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+    <graph id="n14_eu5c" name="n14" xy="175,76" size="175,90" group="n11_eu5c" type="rect"/>
+    <text id="n3_eu5c" name="down" xy="175,76" size="175,90" group="n11_eu5c" font="ui://7h088bzbergj2" fontSize="68" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.1" text="降序">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+    <list id="n10_eu5c" name="n10" xy="0,166" size="350,420" group="n11_eu5c" overflow="scroll" lineGap="10" defaultItem="ui://clm51bb7eu5c6">
+      <relation target="" sidePair="left-left,top-top"/>
+      <item title="1"/>
+      <item title="2"/>
+      <item title="3"/>
+      <item title="4"/>
+      <item title="5"/>
+      <item title="6"/>
+    </list>
+    <group id="n11_eu5c" name="n11" xy="0,76" size="350,510" visible="false" advanced="true"/>
+  </displayList>
+</component>

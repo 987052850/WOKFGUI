@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3196,1507" opaque="false">
+  <displayList>
+    <component id="n0_oc5d" name="n0" src="eu5c0" fileName="GComponent/Extensions/SDD.xml" xy="2164,426" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n5_oc5d" name="n5" src="oc5dp" fileName="GComponent/Default/ProgressBar.xml" xy="2477,257" pivot="0.5,0.5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n6_oc5d" name="n6" src="oc5dp" fileName="GComponent/Default/ProgressBar.xml" xy="2477,311" pivot="0.5,0.5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n7_oc5d" name="n7" src="oc5dp" fileName="GComponent/Default/ProgressBar.xml" xy="2477,365" pivot="0.5,0.5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n8_oc5d" name="n8" src="oc5dp" fileName="GComponent/Default/ProgressBar.xml" xy="2477,419" pivot="0.5,0.5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n9_oc5d" name="n9" src="oc5dp" fileName="GComponent/Default/ProgressBar.xml" xy="2477,473" pivot="0.5,0.5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n10_oc5d" name="n10" src="oc5dp" fileName="GComponent/Default/ProgressBar.xml" xy="2477,527" pivot="0.5,0.5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n11_oc5d" name="n11" src="ttkr12" fileName="ui_basic_line/ui_basic_line_gry.png" pkg="7h088bzb" xy="1876,718" pivot="0.5,0.5" size="1224,2"/>
+    <list id="n12_oc5d" name="n12" xy="1929,754" pivot="1,0.5" size="1222,252" layout="flow_hz" selectionMode="none" overflow="hidden" scroll="both" lineGap="8" defaultItem="ui://clm51bb7oc5dq">
+      <item title="姓氏" name="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n14_oc5d" name="n14" src="ttkr12" fileName="ui_basic_line/ui_basic_line_gry.png" pkg="7h088bzb" xy="2141,1249" pivot="0.5,0.5" size="382,2" skew="90,90"/>
+    <image id="n15_oc5d" name="n15" src="ttkr12" fileName="ui_basic_line/ui_basic_line_gry.png" pkg="7h088bzb" xy="2544,1249" pivot="0.5,0.5" size="382,2" skew="90,90"/>
+    <image id="n16_oc5d" name="n16" src="ttkr12" fileName="ui_basic_line/ui_basic_line_gry.png" pkg="7h088bzb" xy="1876,1032" pivot="0.5,0.5" size="1224,2"/>
+    <component id="n17_oc5d" name="n17" src="oc5dr" fileName="GComponent/Default/CharateristicList.xml" xy="1929,1052" pivot="0.5,0.5"/>
+    <component id="n18_oc5d" name="n18" src="oc5dr" fileName="GComponent/Default/CharateristicList.xml" xy="2335,1052" pivot="0.5,0.5"/>
+    <component id="n19_oc5d" name="n19" src="oc5dr" fileName="GComponent/Default/CharateristicList.xml" xy="2740,1052" pivot="0.5,0.5"/>
+  </displayList>
+</component>

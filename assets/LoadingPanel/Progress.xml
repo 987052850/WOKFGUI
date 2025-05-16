@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="330,19" extention="ProgressBar">
+  <displayList>
+    <image id="n0_ergj" name="n0" src="ergj1" fileName="images/progressBg.png" xy="0,1" size="330,17">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_ergj" name="bar" src="ergj0" fileName="images/progress.png" xy="3,3" size="324,13"/>
+    <text id="n2_ergj" name="title" xy="4,0" size="322,19" font="ui://7h088bzbergj1" fontSize="12" align="center" vAlign="middle" autoSize="none" bold="true" text="100/100">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <ProgressBar/>
+</component>

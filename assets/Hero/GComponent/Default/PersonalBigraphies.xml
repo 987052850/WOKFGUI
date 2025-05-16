@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1468,720">
+  <displayList>
+    <text id="n0_oc5d" name="n0" xy="0,0" pivot="0.5,0.5" size="84,54" fontSize="40" text="列传"/>
+    <list id="n1_oc5d" name="n1" xy="734,720" pivot="0.5,1" anchor="true" size="1468,665" overflow="scroll" defaultItem="ui://clm51bb7oc5d1e">
+      <item/>
+    </list>
+  </displayList>
+</component>

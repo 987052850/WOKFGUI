@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="674,136">
+  <displayList>
+    <list id="n0_oc5d" name="n0" xy="0,0" pivot="0.5,0.5" size="674,136" layout="row" overflow="hidden" scroll="horizontal" colGap="24" defaultItem="ui://clm51bb7oc5dm">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <item title="基本"/>
+      <item title="宝物"/>
+      <item title="个人"/>
+    </list>
+  </displayList>
+</component>

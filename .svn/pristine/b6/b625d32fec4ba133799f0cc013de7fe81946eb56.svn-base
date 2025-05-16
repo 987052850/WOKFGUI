@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <displayList>
+    <graph id="n0_m962" name="n0" xy="2,-4" size="3840,2160" aspect="true" type="rect" lineSize="0" fillColor="#6bffffff">
+      <relation target="" sidePair="rightext-right,topext-top,bottomext-bottom,leftext-left"/>
+    </graph>
+    <component id="n2_m962" name="enterGame" src="m9621" fileName="EnterGamBtn.xml" xy="2229,1577" size="248,173">
+      <relation target="" sidePair="right-center%,bottom-bottom"/>
+    </component>
+    <component id="n3_fox1" name="testBattle" src="fox12" fileName="TestBattleBtn.xml" xy="1362,1577">
+      <relation target="" sidePair="left-center%,bottom-bottom"/>
+    </component>
+    <graph id="n5_czou" name="n5" xy="0,0" size="345,345" type="rect" lineSize="8" fillColor="#ff00cc33">
+      <relation target="" sidePair="left-left,top-top"/>
+    </graph>
+    <graph id="n6_czou" name="n6" xy="3495,1813" pivot="0.5,0.5" size="345,345" type="rect" lineSize="8" fillColor="#ffff0000">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </graph>
+  </displayList>
+</component>

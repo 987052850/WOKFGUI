@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <controller name="RadioGroup" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <graph id="n1_fox1" name="n1" xy="1419,2066" size="1000,94" type="rect">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </graph>
+    <component id="n19_7s3m" name="fiefShow" src="7s3m2" fileName="radioBtn.xml" xy="1504,2084" pivot="0.5,0.5">
+      <Button checked="true" title="采  邑" controller="RadioGroup" page="0"/>
+    </component>
+    <component id="n18_7s3m" name="countyShow" src="7s3m2" fileName="radioBtn.xml" xy="1820,2084" pivot="0.5,0.5">
+      <Button title="郡  县" controller="RadioGroup" page="1"/>
+    </component>
+    <component id="n17_7s3m" name="countryShow" src="7s3m2" fileName="radioBtn.xml" xy="2143,2084" pivot="0.5,0.5">
+      <Button title="国  家" controller="RadioGroup" page="2"/>
+    </component>
+  </displayList>
+</component>

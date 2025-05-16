@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="647,104" pivot="1,0" anchor="true" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <graph id="n0_sxjq" name="n0" xy="0,0" size="647,104" visible="false" alpha="0" touchable="false" type="rect" lineSize="0" fillColor="#fff0f0f0">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_sxjq" name="n1" xy="0,0" size="647,104" visible="false" alpha="0" touchable="false" type="rect" lineSize="0" fillColor="#fffafafa">
+      <gearDisplay controller="button" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n2_sxjq" name="n2" xy="0,0" size="647,104" visible="false" alpha="0" touchable="false" type="rect" lineSize="0" fillColor="#ffcccccc">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n3_sxjq" name="n3" xy="0,0" pivot="0.5,0.5" size="647,104" fontSize="48" color="#c4c2c0" align="center" vAlign="middle" autoSize="none" text="新游戏"/>
+  </displayList>
+  <Button/>
+</component>

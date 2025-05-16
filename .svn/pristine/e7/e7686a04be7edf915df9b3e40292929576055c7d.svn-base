@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7h088bzb">
+  <resources>
+    <font id="ergj2" name="mianfeiziti.ttf" path="/font/" renderMode="sdfaa" samplePointSize="35"/>
+    <image id="l6938" name="ui_basic_button_long01.png" path="/ui_basic_button/" exported="true"/>
+    <image id="l6939" name="ui_basic_button_long01_on.png" path="/ui_basic_button/" exported="true"/>
+    <image id="l693a" name="ui_basic_frame_big01.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="l693e" name="ui_basic_line_coldgreen_#6a8483.png" path="/ui_basic_line/" exported="true" scale="tile" scale9grid="1,1,2,2"/>
+    <image id="l693f" name="ui_basic_pattern_title00.png" path="/ui_basic_pattern/" exported="true"/>
+    <image id="l693g" name="ui_basic_pattern_title01.png" path="/ui_basic_pattern/" exported="true"/>
+    <image id="ecb0h" name="ui_basic_button_close01.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ecb0i" name="ui_basic_button_closebar01.png" path="/ui_basic_button/" exported="true" scale="9grid" scale9grid="16,16,32,32"/>
+    <image id="ecb0j" name="ui_basic_button_long01_null.png" path="/ui_basic_button/" exported="true"/>
+    <component id="nahkn" name="Btn1.xml" path="/component_btn/" exported="true"/>
+    <image id="ib1jo" name="ui_basic_frame_big01.png" path="/ui_basic_frame/" exported="true" scale="9grid" scale9grid="131,195,25,38"/>
+    <image id="ib1jp" name="ui_basic_frame_halfpapertitle.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="ib1jq" name="ui_basic_frame_paper01.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="ib1jr" name="ui_basic_frame_tips01.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="ib1js" name="ui_basic_frame_title01.png" path="/ui_basic_frame/" exported="true"/>
+    <font id="rii9p" name="HYYuJinLi-75U-2.ttf" path="/font/" renderMode="sdfaa" samplePointSize="34" italicStyle="34"/>
+    <font id="rii9q" name="HYYuJinLi-45U-2.ttf" path="/font/" renderMode="sdfaa" samplePointSize="34" italicStyle="34"/>
+    <font id="rii9r" name="HYYuJinLi-55U-2.ttf" path="/font/" renderMode="sdfaa" samplePointSize="34" italicStyle="34"/>
+    <image id="gqp4s" name="icon_cha_mask_204_176.png" path="/mask/" exported="true"/>
+    <image id="gqp4t" name="icon_cha_mask_128round.png" path="/mask/" exported="true"/>
+    <component id="ttkru" name="CloseBtn.xml" path="/component_btn/"/>
+    <image id="ttkrv" name="ui_basic_tab_top01D.png" path="/ui_basic_tab/" exported="true"/>
+    <image id="ttkrw" name="ui_basic_point01.png" path="/ui_basic_point/" exported="true"/>
+    <image id="ttkrx" name="ui_basic_pattern_sixattribute.png" path="/ui_basic_pattern/" exported="true"/>
+    <image id="ttkry" name="ui_basic_pattern_rightdown.png" path="/ui_basic_pattern/" exported="true"/>
+    <image id="ttkrz" name="ui_basic_pattern_mainleftup.png" path="/ui_basic_pattern/" exported="true"/>
+    <image id="ttkr10" name="ui_basic_line_red2.png" path="/ui_basic_line/" exported="true"/>
+    <image id="ttkr11" name="ui_basic_line_red1.png" path="/ui_basic_line/" exported="true"/>
+    <image id="ttkr12" name="ui_basic_line_gry.png" path="/ui_basic_line/" exported="true"/>
+    <image id="ttkr13" name="ui_basic_lable_characteristicRed.png" path="/ui_basic_lable/" exported="true"/>
+    <image id="ttkr14" name="ui_basic_lable_characteristicGolden.png" path="/ui_basic_lable/" exported="true"/>
+    <image id="ttkr15" name="ui_basic_lable_characteristicBule.png" path="/ui_basic_lable/" exported="true"/>
+    <image id="ttkr16" name="ui_basic_frame_title02.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="ttkr17" name="ui_basic_frame_text01.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="ttkr18" name="ui_basic_frame_main01.png" path="/ui_basic_frame/" exported="true"/>
+    <image id="ttkr1b" name="ui_basic_button_small01N.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1c" name="ui_basic_button_small01H.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1d" name="ui_basic_button_slider01.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1e" name="ui_basic_button_middlechangeN.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1f" name="ui_basic_button_middlechangeH.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1g" name="ui_basic_button_middlechangeD.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1h" name="ui_basic_button_middle01N.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1i" name="ui_basic_button_middle01H.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1j" name="ui_basic_button_closseP.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1k" name="ui_basic_button_closseN.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1l" name="ui_basic_button_closseH.png" path="/ui_basic_button/" exported="true"/>
+    <image id="ttkr1m" name="ui_basic_bar_experienceB.png" path="/ui_basic_bar/" exported="true"/>
+    <image id="ttkr1n" name="ui_basic_bar_experience.png" path="/ui_basic_bar/" exported="true"/>
+    <image id="ttkr1o" name="ui_basic_tab_top01H.png" path="/ui_basic_tab/" exported="true"/>
+    <image id="ttkr1p" name="ui_basic_tab_top01N.png" path="/ui_basic_tab/" exported="true"/>
+  </resources>
+  <publish name="Basic"/>
+</packageDescription>

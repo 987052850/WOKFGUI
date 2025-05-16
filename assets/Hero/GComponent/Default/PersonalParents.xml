@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,263">
+  <displayList>
+    <text id="n1_oc5d" name="n1" xy="104,28" pivot="0.5,0.5" anchor="true" size="84,54" fontSize="40" text="父亲"/>
+    <text id="n2_oc5d" name="n2" xy="297,28" pivot="0.5,0.5" anchor="true" size="84,54" fontSize="40" text="母亲"/>
+    <text id="n3_oc5d" name="n3" xy="104,235" pivot="0.5,0.5" anchor="true" size="52,54" fontSize="40" text="---"/>
+    <text id="n4_oc5d" name="n4" xy="297,235" pivot="0.5,0.5" anchor="true" size="52,54" fontSize="40" text="---"/>
+    <graph id="n5_oc5d" name="n5" xy="104,127" pivot="0.5,0.5" anchor="true" size="100,100" type="rect"/>
+    <graph id="n6_oc5d" name="n6" xy="297,127" pivot="0.5,0.5" anchor="true" size="100,100" type="rect"/>
+  </displayList>
+</component>

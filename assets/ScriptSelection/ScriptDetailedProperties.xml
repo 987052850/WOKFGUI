@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1982">
+  <displayList>
+    <component id="n18_s7d4" name="n18" src="s7d4h" fileName="ListOfFamousMinisters.xml" xy="2,0"/>
+    <component id="n19_s7d4" name="n19" src="s7d4i" fileName="NationalProfile.xml" xy="0,300"/>
+    <component id="n20_s7d4" name="n20" src="s7d4j" fileName="InitialResource.xml" xy="0,670"/>
+    <component id="n21_s7d4" name="n21" src="s7d4k" fileName="NationCharacteristics.xml" xy="0,960" pivot="0.5,0.5"/>
+  </displayList>
+</component>

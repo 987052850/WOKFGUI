@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160" opaque="false">
+  <displayList>
+    <graph id="n0_pj3u" name="n0" xy="1169,582" pivot="0.5,0.5" size="1500,1000" group="n14_pj3u" type="rect" fillColor="#ff0099cc">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </graph>
+    <loader3D id="n23_lpmw" name="spineLoader" xy="1391,1122" pivot="0.5,0.5" size="100,100" group="n14_pj3u" animation="" skin="" loop="true"/>
+    <component id="n25_tt88" name="closeBtn" src="ttkru" fileName="component_btn/CloseBtn.xml" pkg="7h088bzb" xy="2540,603" pivot="0.5,0.5" size="104,104" group="n14_pj3u"/>
+    <component id="n2_pj3u" name="createBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="1677,1370" pivot="0.5,0.5" size="484,135" group="n14_pj3u">
+      <Button title="确认创建" titleFontSize="70"/>
+    </component>
+    <text id="n3_pj3u" name="n3" xy="1664,578" pivot="0.5,0.5" size="512,132" group="n14_pj3u" font="ui://7h088bzbergj2" fontSize="90" align="center" vAlign="middle" autoSize="none" faceDilate="0.05" text="新建军团">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n6_pj3u" name="placeCombo" src="pj3ug" fileName="ComboBox1.xml" xy="1719,1049" pivot="0.5,0.5" group="n14_pj3u">
+      <ComboBox visibleItemCount="10"/>
+    </component>
+    <component id="n7_pj3u" name="leaderCombo" src="pj3ug" fileName="ComboBox1.xml" xy="1719,1228" pivot="0.5,0.5" group="n14_pj3u">
+      <ComboBox visibleItemCount="10"/>
+    </component>
+    <graph id="n9_pj3u" name="n9" xy="1660,821" pivot="0.5,0.5" size="516,120" group="n10_pj3u" type="rect" fillColor="#ffffffcc">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n4_pj3u" name="nameInput" xy="1663,821" pivot="0.5,0.5" size="516,120" group="n10_pj3u" font="ui://7h088bzbergj2" fontSize="60" align="center" vAlign="middle" autoSize="none" faceDilate="0.1" text="" input="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n10_pj3u" name="n10" xy="1660,821" size="519,120" group="n14_pj3u" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <text id="n11_pj3u" name="n11" xy="1664,744" pivot="0.5,0.5" size="512,79" group="n14_pj3u" font="ui://7h088bzbergj2" fontSize="60" align="center" vAlign="bottom" autoSize="none" faceDilate="0.05" text="请输入名称">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <text id="n12_pj3u" name="n12" xy="1666,968" pivot="0.5,0.5" size="512,79" group="n14_pj3u" font="ui://7h088bzbergj2" fontSize="60" align="center" vAlign="bottom" autoSize="none" faceDilate="0.05" text="请选择集结地">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <text id="n13_pj3u" name="n13" xy="1660,1146" pivot="0.5,0.5" size="512,79" group="n14_pj3u" font="ui://7h088bzbergj2" fontSize="60" align="center" vAlign="bottom" autoSize="none" faceDilate="0.05" text="请选择统帅">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <group id="n14_pj3u" name="n14" xy="1169,578" size="1500,1004" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

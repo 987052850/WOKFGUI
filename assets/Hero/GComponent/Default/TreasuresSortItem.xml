@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="288,48">
+  <displayList>
+    <graph id="n0_oc5d" name="n0" xy="0,0" pivot="0.5,0.5" size="288,48" type="rect"/>
+    <text id="n1_oc5d" name="n1" xy="0,0" pivot="0.5,0.5" size="288,48" fontSize="25" align="center" vAlign="middle" autoSize="none" text="button"/>
+  </displayList>
+</component>

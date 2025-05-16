@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1261,500" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <component id="n23_lp9y" name="n23" src="lp9yl" fileName="Button1.xml" xy="0,166"/>
+    <image id="n11_lp9y" name="n11" src="lp9y2" fileName="ui_assets/icon/head_small/icon_head_smalltest.png" xy="35,0"/>
+    <text id="n20_lp9y" name="n20" xy="253,186" size="920,64" font="ui://7h088bzbergj2" fontSize="48" color="#fcf8ae" align="center" vAlign="middle" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="0" faceDilate="0.05" text="事件内容选中状态"/>
+    <text id="n21_lp9y" name="condition" xy="35,296" size="152,64" font="ui://7h088bzbergj2" fontSize="48" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="0" faceDilate="0.05" text="条件："/>
+    <text id="n22_lp9y" name="conditionContext" xy="189,296" size="932,188" font="ui://7h088bzbergj2" fontSize="48" color="#ffffff" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="0" faceDilate="0.05" text="条件请问阿斯顿条件请问阿斯顿条件请&#xA;条件请问阿斯顿条件请问阿斯顿&#xA;条件请问阿斯顿&#xA;条件请问阿斯顿"/>
+  </displayList>
+</component>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="hclr9l1r">
+  <resources>
+    <component id="lp9y0" name="Tips.xml" path="/" exported="true"/>
+    <font id="lp9y1" name="HYYuJinLi-55U.ttf" path="/ui_assets/font/" exported="true" renderMode="" samplePointSize="16"/>
+    <image id="lp9y2" name="icon_head_smalltest.png" path="/ui_assets/icon/head_small/" exported="true"/>
+    <image id="lp9y3" name="img_event_test01.png" path="/ui_assets/img/event/" exported="true"/>
+    <image id="lp9y4" name="ui_common_buttonlong01.png" path="/ui_assets/ui/common/" exported="true"/>
+    <image id="lp9y5" name="ui_common_buttonlong01_on.png" path="/ui_assets/ui/common/" exported="true"/>
+    <image id="lp9y6" name="ui_common_framebig01.png" path="/ui_assets/ui/common/" exported="true" scale="9grid" scale9grid="129,197,30,41"/>
+    <image id="lp9y7" name="ui_common_frame_tips01.png" path="/ui_assets/ui/common/" exported="true" scale="9grid" scale9grid="4,4,4,3"/>
+    <image id="lp9y8" name="ui_common_line_coldgreen_#6a8483.png" path="/ui_assets/ui/common/" exported="true" scale="9grid" scale9grid="1,0,2,0"/>
+    <image id="lp9y9" name="ui_common_paperframe01.png" path="/ui_assets/ui/common/" exported="true"/>
+    <image id="lp9ya" name="ui_common_titlebar01.png" path="/ui_assets/ui/common/" exported="true"/>
+    <image id="lp9yb" name="ui_common_titlepattern00.png" path="/ui_assets/ui/common/" exported="true"/>
+    <image id="lp9yc" name="ui_common_titlepattern01.png" path="/ui_assets/ui/common/" exported="true"/>
+    <component id="lp9yf" name="Event_1_Backgrpund.xml" path="/" exported="true"/>
+    <component id="lp9yj" name="EventButton_Locked.xml" path="/" exported="true"/>
+    <component id="lp9yl" name="Button1.xml" path="/" exported="true"/>
+    <component id="lp9ym" name="EventButton.xml" path="/" exported="true"/>
+    <component id="cmjoo" name="Backgrpund.xml" path="/" exported="true"/>
+    <component id="cmjop" name="Mask.xml" path="/" exported="true"/>
+    <component id="cmjoq" name="ScrollView.xml" path="/" exported="true"/>
+    <component id="7aczr" name="Close.xml" path="/" exported="true"/>
+    <component id="gzpr81" name="CircleProgress.xml" path="/" exported="true"/>
+    <component id="niii7b" name="CloseButton.xml" path="/" exported="true"/>
+    <image id="niii7c" name="close_png.png" path="/ui_assets/" exported="true"/>
+    <image id="gzpr80" name="Shape 1 copy 4.png" path="/ui_assets/ui/" exported="true"/>
+    <component id="l84582" name="TitlePatternA.xml" path="/" exported="true"/>
+    <component id="l84583" name="TitlePatternB.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="EventUI"/>
+</packageDescription>

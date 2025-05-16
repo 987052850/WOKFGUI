@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <displayList>
+    <graph id="n3_ergj" name="n3" xy="1919,1079" pivot="0.5,0.5" anchor="true" size="1164,573" type="rect" fillColor="#29ffffff"/>
+    <text id="n2_ergj" name="infoLb" xy="1488,929" size="862,122" font="ui://7h088bzbergj2" fontSize="55" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" strokeSize="0.1" text="势力网格生成中..."/>
+    <component id="n6_ergj" name="n6" src="ergj3" fileName="Progress.xml" xy="1755,1225" pivot="0.5,0.5" size="330,19" scale="3,3">
+      <ProgressBar value="64" max="100"/>
+    </component>
+  </displayList>
+</component>

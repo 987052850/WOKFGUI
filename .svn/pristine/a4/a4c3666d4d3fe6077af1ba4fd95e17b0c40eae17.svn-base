@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <component id="n2_tzaz" name="n2" src="niii7b" fileName="components/CloseButton.xml" xy="0,0" size="100,100"/>
+    <graph id="n1_tzaz" name="n1" xy="50,50" pivot="0.5,0.5" anchor="true" size="100,100" alpha="0.42" type="eclipse" lineSize="0" lineColor="#ffff3300" fillColor="#ff000000"/>
+    <component id="n0_tzaz" name="n0" src="gzpr81" fileName="CircleProgress.xml" xy="0,0" size="100,100">
+      <ProgressBar value="100" max="100"/>
+    </component>
+  </displayList>
+</component>

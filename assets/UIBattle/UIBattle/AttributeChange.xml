@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,100">
+  <displayList>
+    <text id="n0_zjyz" name="n0" xy="0,1" pivot="0.5,0.5" size="400,100" fontSize="74" color="#ffff00" align="center" vAlign="middle" autoSize="none" strokeColor="#00ff00" strokeSize="0.01" faceDilate="0.02" outlineSoftness="0.1" text="士气+80"/>
+  </displayList>
+</component>

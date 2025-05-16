@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3196,1507" opaque="false">
+  <displayList>
+    <component id="n0_oc5d" name="n0" src="oc5d1b" fileName="GComponent/Default/PersonalParents.xml" xy="2109,144" pivot="0.5,0.5"/>
+    <component id="n1_oc5d" name="n1" src="oc5d1c" fileName="GComponent/Default/PersonalRelationship.xml" xy="1725,458" pivot="0.5,0.5"/>
+    <component id="n2_oc5d" name="n2" src="oc5d1c" fileName="GComponent/Default/PersonalRelationship.xml" xy="2209,458" pivot="0.5,0.5"/>
+    <component id="n3_oc5d" name="n3" src="oc5d1c" fileName="GComponent/Default/PersonalRelationship.xml" xy="2693,458" pivot="0.5,0.5"/>
+    <component id="n4_oc5d" name="n4" src="oc5d1d" fileName="GComponent/Default/PersonalBigraphies.xml" xy="3196,1507" pivot="1,1" anchor="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="78,74" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n6_p2hy" name="n6" src="ttkr1c" fileName="ui_basic_button/ui_basic_button_small01H.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5">
+      <gearDisplay controller="button" pages="2"/>
+    </image>
+    <image id="n7_p2hy" name="n7" src="ttkr1b" fileName="ui_basic_button/ui_basic_button_small01N.png" pkg="7h088bzb" xy="0,0" pivot="0.5,0.5">
+      <gearDisplay controller="button" pages="0,1,3"/>
+    </image>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.8"/>
+</component>

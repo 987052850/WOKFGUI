@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2zmvprx6">
+  <resources>
+    <component id="fox10" name="Main.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="WorldUI"/>
+</packageDescription>

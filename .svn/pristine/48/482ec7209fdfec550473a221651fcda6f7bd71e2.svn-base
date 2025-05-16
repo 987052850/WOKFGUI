@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="g8jqsz18">
+  <resources>
+    <component id="jntv0" name="Main.xml" path="/" exported="true"/>
+    <component id="jntv1" name="ScriptList.xml" path="/"/>
+    <image id="s7d43" name="item.png" path="/Folder/" exported="true"/>
+    <component id="s7d44" name="ScriptItem.xml" path="/"/>
+    <component id="s7d45" name="Script0.xml" path="/" exported="true"/>
+    <component id="s7d47" name="NationalScriptButton.xml" path="/"/>
+    <component id="s7d48" name="NationalScript.xml" path="/"/>
+    <component id="s7d49" name="ScriptDetails.xml" path="/"/>
+    <component id="s7d4a" name="ScriptName.xml" path="/"/>
+    <component id="s7d4b" name="NationScriptName.xml" path="/"/>
+    <component id="s7d4c" name="Intorduction.xml" path="/"/>
+    <component id="s7d4e" name="ScriptDetailedProperties.xml" path="/"/>
+    <component id="s7d4f" name="ScrollView.xml" path="/"/>
+    <component id="s7d4g" name="StartGame.xml" path="/"/>
+    <component id="s7d4h" name="ListOfFamousMinisters.xml" path="/"/>
+    <component id="s7d4i" name="NationalProfile.xml" path="/"/>
+    <component id="s7d4j" name="InitialResource.xml" path="/"/>
+    <component id="s7d4k" name="NationCharacteristics.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

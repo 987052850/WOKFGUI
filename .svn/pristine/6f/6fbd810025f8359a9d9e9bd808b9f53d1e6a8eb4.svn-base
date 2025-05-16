@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="2000,300">
+  <displayList>
+    <graph id="n0_ksa2" name="n0" xy="-1,0" pivot="0.5,0.5" size="2000,300" type="rect" fillColor="#b200cc00">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_ksa2" name="n1" xy="48,37" pivot="0.5,0.5" size="225,225" type="eclipse" lineColor="#ffffffff" fillColor="#ff006699"/>
+    <text id="n2_ksa2" name="nameLb" xy="317,71" pivot="0.5,0.5" size="394,90" fontSize="60" autoSize="none" faceDilate="0.05" text="统帅 小翔哥"/>
+    <component id="n3_ksa2" name="forceBar" src="ksa2a" fileName="components/forceBar.xml" xy="304,190" pivot="0.5,0.5" size="784,62">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n5_ksa2" name="formBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="1709,70" pivot="0.5,0.5" size="198,70">
+      <Button title="方 阵"/>
+    </component>
+    <component id="n6_ksa2" name="addArmyBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="1711,192" pivot="0.5,0.5" size="198,70">
+      <Button title="调 兵"/>
+    </component>
+    <component id="n7_edzm" name="armyTypeBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="1197,96" pivot="0.5,0.5" size="355,125">
+      <Button title="兵 种" titleFontSize="80"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="clm51bb7">
+  <resources>
+    <component id="eu5c0" name="SDD.xml" path="/GComponent/Extensions/"/>
+    <component id="eu5c1" name="Main.xml" path="/" exported="true"/>
+    <component id="eu5c2" name="ScrollView_FamousOfficials.xml" path="/GComponent/Extensions/"/>
+    <component id="eu5c3" name="Btn_Search.xml" path="/GComponent/Default/"/>
+    <component id="eu5c5" name="DrapDown_Sort.xml" path="/GComponent/Extensions/"/>
+    <component id="eu5c6" name="Btn_SearchItem.xml" path="/GComponent/Default/"/>
+    <component id="eu5c7" name="Filter.xml" path="/GComponent/Extensions/"/>
+    <image id="p2hy8" name="illus_chabg_0001.png" path="/hero/" exported="true"/>
+    <image id="p2hy9" name="ui_hero_mask.png" path="/hero/"/>
+    <image id="p2hya" name="img_herohead001.png" path="/hero/" exported="true"/>
+    <component id="p2hyd" name="Btn_FOItem.xml" path="/GComponent/Extensions/"/>
+    <component id="p2hye" name="Btn_SortTitle.xml" path="/GComponent/Default/"/>
+    <component id="p2hyf" name="Btn_Filter.xml" path="/GComponent/Default/"/>
+    <component id="r4e3j" name="ScrollBar_grip.xml" path="/GComponent/Default/"/>
+    <component id="r4e3k" name="ScrollBar.xml" path="/GComponent/Default/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

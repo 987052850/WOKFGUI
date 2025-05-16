@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="647,2160" pivot="1,0.5" anchor="true">
+  <displayList>
+    <component id="n3_sxjq" name="n3" src="sxjq0" fileName="FakeButton.xml" xy="647,440"/>
+    <component id="n4_sxjq" name="n4" src="sxjq1" fileName="RealButton.xml" xy="647,550"/>
+    <component id="n5_sxjq" name="n5" src="sxjq1" fileName="RealButton.xml" xy="647,660"/>
+    <component id="n6_sxjq" name="n6" src="sxjq0" fileName="FakeButton.xml" xy="647,840"/>
+    <component id="n7_sxjq" name="n7" src="sxjq1" fileName="RealButton.xml" xy="647,950"/>
+    <component id="n8_sxjq" name="n8" src="sxjq1" fileName="RealButton.xml" xy="647,1060"/>
+    <component id="n9_sxjq" name="n9" src="sxjq0" fileName="FakeButton.xml" xy="647,1240"/>
+    <component id="n10_sxjq" name="n10" src="sxjq1" fileName="RealButton.xml" xy="647,1350"/>
+    <component id="n11_sxjq" name="n11" src="sxjq1" fileName="RealButton.xml" xy="647,1460"/>
+  </displayList>
+</component>

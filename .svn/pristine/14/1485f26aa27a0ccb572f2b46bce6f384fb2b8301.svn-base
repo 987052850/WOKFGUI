@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,50">
+  <displayList>
+    <component id="n0_zjyz" name="ProgressBar" src="dxagg" fileName="UIBattle/ProgressBar.xml" xy="0,15" pivot="0.5,0.5" size="200,20">
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>

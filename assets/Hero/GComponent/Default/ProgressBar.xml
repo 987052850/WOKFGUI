@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="620,54" extention="ProgressBar">
+  <displayList>
+    <image id="n0_oc5d" name="n0" src="ttkr1m" fileName="ui_basic_bar/ui_basic_bar_experienceB.png" pkg="7h088bzb" xy="172,15" size="286,24">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </image>
+    <image id="n1_oc5d" name="bar" src="ttkr1n" fileName="ui_basic_bar/ui_basic_bar_experience.png" pkg="7h088bzb" xy="172,27" pivot="0,0.5" anchor="true" size="286,12">
+      <relation target="n0_oc5d" sidePair="middle-middle,left-left"/>
+    </image>
+    <text id="n2_oc5d" name="name" xy="0,0" size="148,54" font="ui://7h088bzbrii9q" fontSize="36" color="#ece8df" vAlign="middle" autoSize="none" text="统御经验">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </text>
+    <text id="n3_oc5d" name="value" xy="620,27" pivot="1,0.5" anchor="true" size="148,54" font="ui://7h088bzbrii9q" fontSize="36" color="#ece8df" align="right" vAlign="middle" autoSize="none" text="100/500">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </text>
+  </displayList>
+  <ProgressBar/>
+</component>

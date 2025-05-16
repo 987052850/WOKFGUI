@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="uimp3h6e">
+  <resources>
+    <component id="dq1ra" name="Main.xml" path="/UIBattle/" exported="true"/>
+    <component id="qpxld" name="ArmyItem.xml" path="/UIBattle/"/>
+    <component id="vm6rf" name="ArmyInfo.xml" path="/UIBattle/"/>
+    <component id="dxagg" name="ProgressBar.xml" path="/UIBattle/"/>
+    <component id="dxagh" name="SpecicalAbilityItem.xml" path="/UIBattle/"/>
+    <component id="qq3ei" name="bg.xml" path="/UIBattle/"/>
+    <component id="zhyrl" name="ArmyInfoMinParent.xml" path="/UIBattle/"/>
+    <component id="zhyrn" name="ArmyInfoMinItem.xml" path="/UIBattle/" exported="true"/>
+    <component id="zhyro" name="ArmyInfoMinButton.xml" path="/UIBattle/"/>
+    <component id="zhyrp" name="GameStartButton.xml" path="/UIBattle/"/>
+    <component id="zjyzq" name="BloodBar.xml" path="/UIBattle/" exported="true"/>
+    <component id="zjyzr" name="AttributeChange.xml" path="/UIBattle/" exported="true"/>
+  </resources>
+  <publish name="UIBattle"/>
+</packageDescription>

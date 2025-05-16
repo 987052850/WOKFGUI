@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- EmptyPanel/Backgrpund.xml -->
+  <string name="hclr9l1rcmjoo-n6_lp9y" mz="titleText">title</string>
+  <!-- EmptyPanel/EventButton.xml -->
+  <string name="hclr9l1rlp9ym-n20_lp9y" mz="n20">事件内容选中状态</string>
+  <string name="hclr9l1rlp9ym-n21_lp9y" mz="condition">条件：</string>
+  <string name="hclr9l1rlp9ym-n22_lp9y" mz="conditionContext">条件请问，阿,斯1顿2条3件0请6问阿斯顿条件
+条件请问阿斯顿
+条件请问阿斯顿</string>
+  <!-- EmptyPanel/EventButton_Locked.xml -->
+  <string name="hclr9l1rlp9yj-n20_lp9y" mz="n20">事件内容选中状态</string>
+  <string name="hclr9l1rlp9yj-n21_lp9y" mz="condition">条件：</string>
+  <string name="hclr9l1rlp9yj-n22_lp9y" mz="conditionContext">[color=#FF0000]这段文字是红色的[/color] 这段是默认颜色
+</string>
+  <!-- EmptyPanel/Event_1_Backgrpund.xml -->
+  <string name="hclr9l1rlp9yf-n9_cmjo" mz="n9">事件标题</string>
+  <!-- EmptyPanel/Tips.xml -->
+  <string name="hclr9l1rlp9y0-n17_lp9y" mz="n17">Tips标题</string>
+  <string name="hclr9l1rlp9y0-n19_lp9y" mz="n19">Tipsps文本
+自动调整大小</string>
+  <!-- EnterPanel/EnterGamBtn.xml -->
+  <string name="3p7ftjppm9621-n3_m962" mz="n3">进入
+游戏</string>
+  <!-- EnterPanel/TestBattleBtn.xml -->
+  <string name="3p7ftjppfox12-n3_m962" mz="n3">战斗
+测试</string>
+  <!-- LoadingPanel/Main.xml -->
+  <string name="7scqqrqzergj2-n2_ergj" mz="infoLb">势力网格生成中...</string>
+  <!-- WorldUI/Main.xml -->
+  <string name="2zmvprx6fox10-n3_fox1" mz="n3">我是世界UI 我的字体正确</string>
+</resources>

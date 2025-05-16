@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jlvt5e15">
+  <resources>
+    <component id="sxjq0" name="FakeButton.xml" path="/" exported="true"/>
+    <component id="sxjq1" name="RealButton.xml" path="/" exported="true"/>
+    <component id="sxjq3" name="MainSceneButtons.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

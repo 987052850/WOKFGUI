@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3p7ftjpp">
+  <resources>
+    <component id="m9620" name="Main.xml" path="/" exported="true"/>
+    <component id="m9621" name="EnterGamBtn.xml" path="/"/>
+    <component id="fox12" name="TestBattleBtn.xml" path="/"/>
+    <component id="fox13" name="Muhaha.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="EnterPanel"/>
+</packageDescription>

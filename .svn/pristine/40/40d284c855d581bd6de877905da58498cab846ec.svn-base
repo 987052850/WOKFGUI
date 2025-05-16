@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7scqqrqz">
+  <resources>
+    <image id="ergj0" name="progress.png" path="/images/" scale="9grid" scale9grid="12,1,385,3"/>
+    <image id="ergj1" name="progressBg.png" path="/images/" scale="9grid" scale9grid="25,3,354,2"/>
+    <component id="ergj2" name="Main.xml" path="/" exported="true"/>
+    <component id="ergj3" name="Progress.xml" path="/"/>
+  </resources>
+  <publish name="LoadingPanel"/>
+</packageDescription>

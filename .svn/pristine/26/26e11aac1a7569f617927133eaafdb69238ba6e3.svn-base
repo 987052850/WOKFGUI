@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,300" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
+  <displayList>
+    <graph id="n0_cy02" name="n0" xy="-4,0" size="1000,300" touchable="false" type="rect" fillColor="#ffcccccc">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_cy02" name="n1" xy="0,0" size="1000,300" touchable="false" type="rect" fillColor="#fffafafa">
+      <gearDisplay controller="button" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n2_cy02" name="n2" xy="0,0" size="1000,300" touchable="false" type="rect">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n3_cy02" name="n3" xy="42,41" pivot="0.5,0.5" size="225,225" type="eclipse" lineColor="#ffffffff" fillColor="#ff006699"/>
+    <text id="n4_cy02" name="nameLb" xy="303,94" pivot="0.5,0.5" size="394,79" fontSize="60" autoSize="none" faceDilate="0.05" text="第一军团"/>
+    <component id="n5_cy02" name="forceBar" src="ksa2a" fileName="components/forceBar.xml" xy="294,214" pivot="0.5,0.5" size="400,30">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n6_cy02" name="locateBtn" src="nahkn" fileName="component_btn/Btn1.xml" pkg="7h088bzb" xy="757,113" pivot="0.5,0.5" size="198,70">
+      <Button title="定 位"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

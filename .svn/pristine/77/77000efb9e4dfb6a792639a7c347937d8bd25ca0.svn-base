@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n1_lp9y" name="Background" src="lp9y6" fileName="ui_assets/ui/common/ui_common_framebig01.png" xy="470,217" pivot="0.5,0.5" size="2900,1800" aspect="true"/>
+    <image id="n5_lp9y" name="title" src="lp9ya" fileName="ui_assets/ui/common/ui_common_titlebar01.png" xy="1259,240"/>
+    <text id="n6_lp9y" name="titleText" xy="1920,296" pivot="0.5,0.5" anchor="true" size="878,110" font="ui://7h088bzbergj2" fontSize="64" color="#ca9a28" align="center" vAlign="middle" ubb="true" autoSize="none" strokeColor="#333333" strokeSize="0" faceDilate="0.07" text="标题"/>
+    <component id="n10_l845" name="n10" src="l84582" fileName="TitlePatternA.xml" xy="1355,143"/>
+    <component id="n12_l845" name="n9" src="l84583" fileName="TitlePatternB.xml" xy="1775,155"/>
+  </displayList>
+</component>

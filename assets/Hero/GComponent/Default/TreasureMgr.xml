@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="441,745">
+  <displayList>
+    <graph id="n1_oc5d" name="n1" xy="97,79" pivot="0.5,0.5" size="246,232" type="rect"/>
+    <graph id="n4_oc5d" name="n4" xy="118,99" pivot="0.5,0.5" size="203,192" aspect="true" type="rect" fillColor="#ff000000"/>
+    <text id="n2_oc5d" name="n2" xy="-1,0" size="204,54" font="ui://7h088bzbrii9q" fontSize="40" align="center" text="宝物稀有度"/>
+    <text id="n3_oc5d" name="n3" xy="441,0" pivot="1,0" anchor="true" size="164,54" font="ui://7h088bzbrii9q" fontSize="40" align="right" text="宝物名称"/>
+    <graph id="n5_oc5d" name="n5" xy="25,328" pivot="0.5,0.5" size="390,100" type="rect"/>
+    <text id="n6_oc5d" name="n6" xy="136,354" pivot="0.5,0.5" size="164,54" fontSize="40" align="center" text="宝物效果"/>
+    <graph id="n7_oc5d" name="n7" xy="219,746" pivot="0.5,1" anchor="true" size="390,311" type="rect"/>
+    <list id="n8_oc5d" name="n8" xy="219,745" pivot="0.5,1" anchor="true" size="390,244" overflow="scroll" defaultItem="ui://clm51bb7oc5d1h">
+      <item/>
+    </list>
+    <text id="n9_oc5d" name="n9" xy="25,436" pivot="0.5,0.5" size="234,54" fontSize="40" vAlign="middle" autoSize="none" text="宝物描述："/>
+  </displayList>
+</component>

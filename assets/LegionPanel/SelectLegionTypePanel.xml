@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3840,2160">
+  <displayList>
+    <graph id="n0_edzm" name="n0" xy="1920,1930" pivot="0.5,1" anchor="true" size="3000,1700" group="n4_edzm" type="rect" fillColor="#800066cc"/>
+    <text id="n1_edzm" name="n1" xy="1575,234" pivot="0.5,0.5" size="690,129" group="n4_edzm" font="ui://7h088bzbergj2" fontSize="100" color="#ffffff" align="center" vAlign="middle" autoSize="none" faceDilate="0.05" text="军制"/>
+    <component id="n3_edzm" name="n3" src="lpjo8" fileName="components/PanelC.xml" xy="420,365" pivot="0.5,0.5" group="n4_edzm"/>
+    <list id="n2_edzm" name="typeList" xy="421,365" size="1000,1562" group="n4_edzm" overflow="scroll" defaultItem="ui://wdgxem6fedzmj" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n6_tt88" name="closeBtn" src="ttkru" fileName="component_btn/CloseBtn.xml" pkg="7h088bzb" xy="3282,238" pivot="0.5,0.5" size="124,124" group="n4_edzm"/>
+    <group id="n4_edzm" name="n4" xy="420,230" size="3000,1700" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>
